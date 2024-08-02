@@ -1,0 +1,2548 @@
+2024-08-01 09:56:00,672 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:00,809 ERROR /usr/lib/python3/dist-packages/urllib3/connectionpool.py:732: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.org/en/latest/security.html (This warning will only appear once by default.)
+2024-08-01 09:56:00,812 ERROR   InsecureRequestWarning)
+2024-08-01 09:56:00,900 DEBUG "GET /country/es?page=1 HTTP/1.1" 200 None
+2024-08-01 09:56:00,947 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:01,171 DEBUG "GET /country/es?page=2 HTTP/1.1" 200 None
+2024-08-01 09:56:01,205 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:01,407 DEBUG "GET /country/es?page=3 HTTP/1.1" 200 None
+2024-08-01 09:56:01,439 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:01,634 DEBUG "GET /country/es?page=4 HTTP/1.1" 200 None
+2024-08-01 09:56:01,672 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:01,893 DEBUG "GET /country/es?page=5 HTTP/1.1" 200 None
+2024-08-01 09:56:01,925 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:02,128 DEBUG "GET /country/es?page=6 HTTP/1.1" 200 None
+2024-08-01 09:56:02,161 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:02,372 DEBUG "GET /country/es?page=7 HTTP/1.1" 200 None
+2024-08-01 09:56:02,405 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:02,598 DEBUG "GET /country/es?page=8 HTTP/1.1" 200 None
+2024-08-01 09:56:02,633 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:02,828 DEBUG "GET /country/es?page=9 HTTP/1.1" 200 None
+2024-08-01 09:56:02,865 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:03,158 DEBUG "GET /country/es?page=10 HTTP/1.1" 200 None
+2024-08-01 09:56:03,191 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:03,390 DEBUG "GET /country/es?page=11 HTTP/1.1" 200 None
+2024-08-01 09:56:03,422 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:03,620 DEBUG "GET /country/es?page=12 HTTP/1.1" 200 None
+2024-08-01 09:56:03,652 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:03,857 DEBUG "GET /country/es?page=13 HTTP/1.1" 200 None
+2024-08-01 09:56:03,889 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:04,090 DEBUG "GET /country/es?page=14 HTTP/1.1" 200 None
+2024-08-01 09:56:04,122 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:04,322 DEBUG "GET /country/es?page=15 HTTP/1.1" 200 None
+2024-08-01 09:56:04,359 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:04,562 DEBUG "GET /country/es?page=16 HTTP/1.1" 200 None
+2024-08-01 09:56:04,595 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:04,809 DEBUG "GET /country/es?page=17 HTTP/1.1" 200 None
+2024-08-01 09:56:04,841 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:05,065 DEBUG "GET /country/es?page=18 HTTP/1.1" 200 None
+2024-08-01 09:56:05,106 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:05,314 DEBUG "GET /country/es?page=19 HTTP/1.1" 200 None
+2024-08-01 09:56:05,360 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:05,672 DEBUG "GET /country/es?page=20 HTTP/1.1" 200 None
+2024-08-01 09:56:05,707 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:05,989 DEBUG "GET /country/es?page=21 HTTP/1.1" 200 None
+2024-08-01 09:56:06,021 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:06,233 DEBUG "GET /country/es?page=22 HTTP/1.1" 200 None
+2024-08-01 09:56:06,265 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:06,466 DEBUG "GET /country/es?page=23 HTTP/1.1" 200 None
+2024-08-01 09:56:06,498 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:06,698 DEBUG "GET /country/es?page=24 HTTP/1.1" 200 None
+2024-08-01 09:56:06,736 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:06,938 DEBUG "GET /country/es?page=25 HTTP/1.1" 200 None
+2024-08-01 09:56:06,969 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:07,180 DEBUG "GET /country/es?page=26 HTTP/1.1" 200 None
+2024-08-01 09:56:07,212 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:07,413 DEBUG "GET /country/es?page=27 HTTP/1.1" 200 None
+2024-08-01 09:56:07,445 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:07,649 DEBUG "GET /country/es?page=28 HTTP/1.1" 200 None
+2024-08-01 09:56:07,688 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:07,878 DEBUG "GET /country/es?page=29 HTTP/1.1" 200 None
+2024-08-01 09:56:07,910 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:08,115 DEBUG "GET /country/es?page=30 HTTP/1.1" 200 None
+2024-08-01 09:56:08,147 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:08,349 DEBUG "GET /country/es?page=31 HTTP/1.1" 200 None
+2024-08-01 09:56:08,380 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:08,573 DEBUG "GET /country/es?page=32 HTTP/1.1" 200 None
+2024-08-01 09:56:08,604 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:08,821 DEBUG "GET /country/es?page=33 HTTP/1.1" 200 None
+2024-08-01 09:56:08,857 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:09,066 DEBUG "GET /country/es?page=34 HTTP/1.1" 200 None
+2024-08-01 09:56:09,101 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:09,311 DEBUG "GET /country/es?page=35 HTTP/1.1" 200 None
+2024-08-01 09:56:09,342 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:09,534 DEBUG "GET /country/es?page=36 HTTP/1.1" 200 None
+2024-08-01 09:56:09,566 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:09,782 DEBUG "GET /country/es?page=37 HTTP/1.1" 200 None
+2024-08-01 09:56:09,813 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:09,998 DEBUG "GET /country/es?page=38 HTTP/1.1" 200 None
+2024-08-01 09:56:10,030 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:10,307 DEBUG "GET /country/es?page=39 HTTP/1.1" 200 None
+2024-08-01 09:56:10,339 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:10,523 DEBUG "GET /country/es?page=40 HTTP/1.1" 200 None
+2024-08-01 09:56:10,555 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:10,757 DEBUG "GET /country/es?page=41 HTTP/1.1" 200 None
+2024-08-01 09:56:10,790 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:10,988 DEBUG "GET /country/es?page=42 HTTP/1.1" 200 None
+2024-08-01 09:56:11,021 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:11,226 DEBUG "GET /country/es?page=43 HTTP/1.1" 200 None
+2024-08-01 09:56:11,275 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:11,486 DEBUG "GET /country/es?page=44 HTTP/1.1" 200 None
+2024-08-01 09:56:11,517 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:11,714 DEBUG "GET /country/es?page=45 HTTP/1.1" 200 None
+2024-08-01 09:56:11,752 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:11,963 DEBUG "GET /country/es?page=46 HTTP/1.1" 200 None
+2024-08-01 09:56:11,994 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:12,243 DEBUG "GET /country/es?page=47 HTTP/1.1" 200 None
+2024-08-01 09:56:12,275 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:12,472 DEBUG "GET /country/es?page=48 HTTP/1.1" 200 None
+2024-08-01 09:56:12,504 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:12,714 DEBUG "GET /country/es?page=49 HTTP/1.1" 200 None
+2024-08-01 09:56:12,745 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:12,928 DEBUG "GET /country/es?page=50 HTTP/1.1" 200 None
+2024-08-01 09:56:12,961 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:13,165 DEBUG "GET /country/es?page=51 HTTP/1.1" 200 None
+2024-08-01 09:56:13,196 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:13,388 DEBUG "GET /country/es?page=52 HTTP/1.1" 200 None
+2024-08-01 09:56:13,420 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:13,681 DEBUG "GET /country/es?page=53 HTTP/1.1" 200 None
+2024-08-01 09:56:13,715 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:13,924 DEBUG "GET /country/es?page=54 HTTP/1.1" 200 None
+2024-08-01 09:56:13,961 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:14,231 DEBUG "GET /country/es?page=55 HTTP/1.1" 200 None
+2024-08-01 09:56:14,268 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:14,464 DEBUG "GET /country/es?page=56 HTTP/1.1" 200 None
+2024-08-01 09:56:14,496 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:14,718 DEBUG "GET /country/es?page=57 HTTP/1.1" 200 None
+2024-08-01 09:56:14,753 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:14,993 DEBUG "GET /country/es?page=58 HTTP/1.1" 200 None
+2024-08-01 09:56:15,025 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:15,227 DEBUG "GET /country/es?page=59 HTTP/1.1" 200 None
+2024-08-01 09:56:15,258 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:15,499 DEBUG "GET /country/es?page=60 HTTP/1.1" 200 None
+2024-08-01 09:56:15,530 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:15,726 DEBUG "GET /country/es?page=61 HTTP/1.1" 200 None
+2024-08-01 09:56:15,763 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:16,018 DEBUG "GET /country/es?page=62 HTTP/1.1" 200 None
+2024-08-01 09:56:16,050 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:16,262 DEBUG "GET /country/es?page=63 HTTP/1.1" 200 None
+2024-08-01 09:56:16,298 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:16,502 DEBUG "GET /country/es?page=64 HTTP/1.1" 200 None
+2024-08-01 09:56:16,536 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:16,768 DEBUG "GET /country/es?page=65 HTTP/1.1" 200 None
+2024-08-01 09:56:16,801 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:17,012 DEBUG "GET /country/es?page=66 HTTP/1.1" 200 None
+2024-08-01 09:56:17,051 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:17,260 DEBUG "GET /country/es?page=67 HTTP/1.1" 200 None
+2024-08-01 09:56:17,304 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:17,497 DEBUG "GET /country/es?page=68 HTTP/1.1" 200 None
+2024-08-01 09:56:17,532 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:17,714 DEBUG "GET /country/es?page=69 HTTP/1.1" 200 None
+2024-08-01 09:56:17,752 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:17,947 DEBUG "GET /country/es?page=70 HTTP/1.1" 200 None
+2024-08-01 09:56:17,979 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:18,185 DEBUG "GET /country/es?page=71 HTTP/1.1" 200 None
+2024-08-01 09:56:18,218 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:18,413 DEBUG "GET /country/es?page=72 HTTP/1.1" 200 None
+2024-08-01 09:56:18,445 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:18,628 DEBUG "GET /country/es?page=73 HTTP/1.1" 200 None
+2024-08-01 09:56:18,661 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:56:18,865 DEBUG "GET /country/es?page=74 HTTP/1.1" 200 None
+2024-08-01 09:57:14,928 ERROR Traceback (most recent call last):
+2024-08-01 09:57:14,930 ERROR   File "testCardReaderLinux.py", line 785, in <module>
+2024-08-01 09:57:14,935 ERROR time.sleep(2)
+2024-08-01 09:57:14,936 ERROR KeyboardInterrupt
+2024-08-01 09:59:51,026 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:59:51,149 ERROR /usr/lib/python3/dist-packages/urllib3/connectionpool.py:732: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.org/en/latest/security.html (This warning will only appear once by default.)
+2024-08-01 09:59:51,156 ERROR   InsecureRequestWarning)
+2024-08-01 09:59:51,241 DEBUG "GET /country/es?page=1 HTTP/1.1" 200 None
+2024-08-01 09:59:51,280 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:59:51,531 DEBUG "GET /country/es?page=2 HTTP/1.1" 200 None
+2024-08-01 09:59:51,565 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:59:51,773 DEBUG "GET /country/es?page=3 HTTP/1.1" 200 None
+2024-08-01 09:59:51,805 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:59:52,004 DEBUG "GET /country/es?page=4 HTTP/1.1" 200 None
+2024-08-01 09:59:52,037 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:59:52,240 DEBUG "GET /country/es?page=5 HTTP/1.1" 200 None
+2024-08-01 09:59:52,275 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:59:52,476 DEBUG "GET /country/es?page=6 HTTP/1.1" 200 None
+2024-08-01 09:59:52,509 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:59:52,688 DEBUG "GET /country/es?page=7 HTTP/1.1" 200 None
+2024-08-01 09:59:52,722 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:59:52,978 DEBUG "GET /country/es?page=8 HTTP/1.1" 200 None
+2024-08-01 09:59:53,011 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:59:53,260 DEBUG "GET /country/es?page=9 HTTP/1.1" 200 None
+2024-08-01 09:59:53,305 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:59:53,582 DEBUG "GET /country/es?page=10 HTTP/1.1" 200 None
+2024-08-01 09:59:53,615 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:59:53,798 DEBUG "GET /country/es?page=11 HTTP/1.1" 200 None
+2024-08-01 09:59:53,830 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:59:54,050 DEBUG "GET /country/es?page=12 HTTP/1.1" 200 None
+2024-08-01 09:59:54,083 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:59:54,281 DEBUG "GET /country/es?page=13 HTTP/1.1" 200 None
+2024-08-01 09:59:54,313 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:59:54,523 DEBUG "GET /country/es?page=14 HTTP/1.1" 200 None
+2024-08-01 09:59:54,555 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:59:54,760 DEBUG "GET /country/es?page=15 HTTP/1.1" 200 None
+2024-08-01 09:59:54,792 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:59:54,991 DEBUG "GET /country/es?page=16 HTTP/1.1" 200 None
+2024-08-01 09:59:55,023 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:59:55,248 DEBUG "GET /country/es?page=17 HTTP/1.1" 200 None
+2024-08-01 09:59:55,282 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:59:55,476 DEBUG "GET /country/es?page=18 HTTP/1.1" 200 None
+2024-08-01 09:59:55,508 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:59:55,702 DEBUG "GET /country/es?page=19 HTTP/1.1" 200 None
+2024-08-01 09:59:55,734 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:59:56,008 DEBUG "GET /country/es?page=20 HTTP/1.1" 200 None
+2024-08-01 09:59:56,043 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:59:56,247 DEBUG "GET /country/es?page=21 HTTP/1.1" 200 None
+2024-08-01 09:59:56,286 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:59:56,501 DEBUG "GET /country/es?page=22 HTTP/1.1" 200 None
+2024-08-01 09:59:56,534 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:59:56,733 DEBUG "GET /country/es?page=23 HTTP/1.1" 200 None
+2024-08-01 09:59:56,768 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:59:56,967 DEBUG "GET /country/es?page=24 HTTP/1.1" 200 None
+2024-08-01 09:59:57,000 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:59:57,205 DEBUG "GET /country/es?page=25 HTTP/1.1" 200 None
+2024-08-01 09:59:57,240 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:59:57,441 DEBUG "GET /country/es?page=26 HTTP/1.1" 200 None
+2024-08-01 09:59:57,478 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:59:57,667 DEBUG "GET /country/es?page=27 HTTP/1.1" 200 None
+2024-08-01 09:59:57,700 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:59:57,890 DEBUG "GET /country/es?page=28 HTTP/1.1" 200 None
+2024-08-01 09:59:57,925 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:59:58,127 DEBUG "GET /country/es?page=29 HTTP/1.1" 200 None
+2024-08-01 09:59:58,159 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:59:58,361 DEBUG "GET /country/es?page=30 HTTP/1.1" 200 None
+2024-08-01 09:59:58,393 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:59:58,589 DEBUG "GET /country/es?page=31 HTTP/1.1" 200 None
+2024-08-01 09:59:58,622 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:59:58,838 DEBUG "GET /country/es?page=32 HTTP/1.1" 200 None
+2024-08-01 09:59:58,870 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:59:59,073 DEBUG "GET /country/es?page=33 HTTP/1.1" 200 None
+2024-08-01 09:59:59,115 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:59:59,332 DEBUG "GET /country/es?page=34 HTTP/1.1" 200 None
+2024-08-01 09:59:59,376 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:59:59,604 DEBUG "GET /country/es?page=35 HTTP/1.1" 200 None
+2024-08-01 09:59:59,636 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 09:59:59,844 DEBUG "GET /country/es?page=36 HTTP/1.1" 200 None
+2024-08-01 09:59:59,882 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:00:00,095 DEBUG "GET /country/es?page=37 HTTP/1.1" 200 None
+2024-08-01 10:00:00,127 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:00:00,338 DEBUG "GET /country/es?page=38 HTTP/1.1" 200 None
+2024-08-01 10:00:00,369 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:00:00,594 DEBUG "GET /country/es?page=39 HTTP/1.1" 200 None
+2024-08-01 10:00:00,625 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:00:00,825 DEBUG "GET /country/es?page=40 HTTP/1.1" 200 None
+2024-08-01 10:00:00,857 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:00:01,047 DEBUG "GET /country/es?page=41 HTTP/1.1" 200 None
+2024-08-01 10:00:01,085 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:00:01,308 DEBUG "GET /country/es?page=42 HTTP/1.1" 200 None
+2024-08-01 10:00:01,342 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:00:01,624 DEBUG "GET /country/es?page=43 HTTP/1.1" 200 None
+2024-08-01 10:00:01,667 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:00:01,975 DEBUG "GET /country/es?page=44 HTTP/1.1" 200 None
+2024-08-01 10:00:02,017 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:00:02,286 DEBUG "GET /country/es?page=45 HTTP/1.1" 200 None
+2024-08-01 10:00:02,320 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:00:02,665 DEBUG "GET /country/es?page=46 HTTP/1.1" 200 None
+2024-08-01 10:00:02,698 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:00:02,945 DEBUG "GET /country/es?page=47 HTTP/1.1" 200 None
+2024-08-01 10:00:02,977 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:00:03,194 DEBUG "GET /country/es?page=48 HTTP/1.1" 200 None
+2024-08-01 10:00:03,253 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:00:03,488 DEBUG "GET /country/es?page=49 HTTP/1.1" 200 None
+2024-08-01 10:00:03,519 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:00:03,842 DEBUG "GET /country/es?page=50 HTTP/1.1" 200 None
+2024-08-01 10:00:03,874 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:00:04,097 DEBUG "GET /country/es?page=51 HTTP/1.1" 200 None
+2024-08-01 10:00:04,129 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:00:04,349 DEBUG "GET /country/es?page=52 HTTP/1.1" 200 None
+2024-08-01 10:00:04,386 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:00:04,602 DEBUG "GET /country/es?page=53 HTTP/1.1" 200 None
+2024-08-01 10:00:04,634 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:00:04,843 DEBUG "GET /country/es?page=54 HTTP/1.1" 200 None
+2024-08-01 10:00:04,876 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:00:05,157 DEBUG "GET /country/es?page=55 HTTP/1.1" 200 None
+2024-08-01 10:00:05,200 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:00:05,439 DEBUG "GET /country/es?page=56 HTTP/1.1" 200 None
+2024-08-01 10:00:05,480 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:00:05,692 DEBUG "GET /country/es?page=57 HTTP/1.1" 200 None
+2024-08-01 10:00:05,729 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:00:06,002 DEBUG "GET /country/es?page=58 HTTP/1.1" 200 None
+2024-08-01 10:00:06,102 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:00:06,320 DEBUG "GET /country/es?page=59 HTTP/1.1" 200 None
+2024-08-01 10:00:06,361 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:00:06,647 DEBUG "GET /country/es?page=60 HTTP/1.1" 200 None
+2024-08-01 10:00:06,696 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:00:06,926 DEBUG "GET /country/es?page=61 HTTP/1.1" 200 None
+2024-08-01 10:00:06,958 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:00:07,162 DEBUG "GET /country/es?page=62 HTTP/1.1" 200 None
+2024-08-01 10:00:07,194 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:00:07,397 DEBUG "GET /country/es?page=63 HTTP/1.1" 200 None
+2024-08-01 10:00:07,429 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:00:07,645 DEBUG "GET /country/es?page=64 HTTP/1.1" 200 None
+2024-08-01 10:00:07,683 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:00:07,891 DEBUG "GET /country/es?page=65 HTTP/1.1" 200 None
+2024-08-01 10:00:07,923 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:00:08,156 DEBUG "GET /country/es?page=66 HTTP/1.1" 200 None
+2024-08-01 10:00:08,188 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:00:08,390 DEBUG "GET /country/es?page=67 HTTP/1.1" 200 None
+2024-08-01 10:00:08,422 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:00:08,681 DEBUG "GET /country/es?page=68 HTTP/1.1" 200 None
+2024-08-01 10:00:08,713 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:00:08,922 DEBUG "GET /country/es?page=69 HTTP/1.1" 200 None
+2024-08-01 10:00:08,954 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:00:09,181 DEBUG "GET /country/es?page=70 HTTP/1.1" 200 None
+2024-08-01 10:00:09,213 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:00:09,423 DEBUG "GET /country/es?page=71 HTTP/1.1" 200 None
+2024-08-01 10:00:09,462 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:00:09,658 DEBUG "GET /country/es?page=72 HTTP/1.1" 200 None
+2024-08-01 10:00:09,691 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:00:09,893 DEBUG "GET /country/es?page=73 HTTP/1.1" 200 None
+2024-08-01 10:00:09,926 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:00:10,118 DEBUG "GET /country/es?page=74 HTTP/1.1" 200 None
+2024-08-01 10:02:30,834 ERROR Traceback (most recent call last):
+2024-08-01 10:02:30,837 ERROR   File "testCardReaderLinux.py", line 770, in <module>
+2024-08-01 10:02:30,843 ERROR if cardIsInside():
+2024-08-01 10:02:30,845 ERROR   File "testCardReaderLinux.py", line 192, in cardIsInside
+2024-08-01 10:02:30,848 ERROR response = sendCommand(cm.ICRW_COMMAND)
+2024-08-01 10:02:30,851 ERROR   File "testCardReaderLinux.py", line 85, in sendCommand
+2024-08-01 10:02:30,854 ERROR time.sleep(0.2)
+2024-08-01 10:02:30,856 ERROR KeyboardInterrupt
+2024-08-01 10:22:21,070 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:21,215 ERROR /usr/lib/python3/dist-packages/urllib3/connectionpool.py:732: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.org/en/latest/security.html (This warning will only appear once by default.)
+2024-08-01 10:22:21,217 ERROR   InsecureRequestWarning)
+2024-08-01 10:22:21,299 DEBUG "GET /country/es?page=1 HTTP/1.1" 200 None
+2024-08-01 10:22:21,336 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:21,540 DEBUG "GET /country/es?page=2 HTTP/1.1" 200 None
+2024-08-01 10:22:21,576 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:21,793 DEBUG "GET /country/es?page=3 HTTP/1.1" 200 None
+2024-08-01 10:22:21,825 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:22,046 DEBUG "GET /country/es?page=4 HTTP/1.1" 200 None
+2024-08-01 10:22:22,084 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:22,329 DEBUG "GET /country/es?page=5 HTTP/1.1" 200 None
+2024-08-01 10:22:22,367 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:22,574 DEBUG "GET /country/es?page=6 HTTP/1.1" 200 None
+2024-08-01 10:22:22,607 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:22,838 DEBUG "GET /country/es?page=7 HTTP/1.1" 200 None
+2024-08-01 10:22:22,873 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:23,086 DEBUG "GET /country/es?page=8 HTTP/1.1" 200 None
+2024-08-01 10:22:23,127 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:23,385 DEBUG "GET /country/es?page=9 HTTP/1.1" 200 None
+2024-08-01 10:22:23,424 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:23,640 DEBUG "GET /country/es?page=10 HTTP/1.1" 200 None
+2024-08-01 10:22:23,673 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:23,883 DEBUG "GET /country/es?page=11 HTTP/1.1" 200 None
+2024-08-01 10:22:23,915 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:24,119 DEBUG "GET /country/es?page=12 HTTP/1.1" 200 None
+2024-08-01 10:22:24,157 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:24,391 DEBUG "GET /country/es?page=13 HTTP/1.1" 200 None
+2024-08-01 10:22:24,424 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:24,616 DEBUG "GET /country/es?page=14 HTTP/1.1" 200 None
+2024-08-01 10:22:24,648 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:24,892 DEBUG "GET /country/es?page=15 HTTP/1.1" 200 None
+2024-08-01 10:22:24,924 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:25,183 DEBUG "GET /country/es?page=16 HTTP/1.1" 200 None
+2024-08-01 10:22:25,215 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:25,523 DEBUG "GET /country/es?page=17 HTTP/1.1" 200 None
+2024-08-01 10:22:25,555 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:25,776 DEBUG "GET /country/es?page=18 HTTP/1.1" 200 None
+2024-08-01 10:22:25,808 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:26,012 DEBUG "GET /country/es?page=19 HTTP/1.1" 200 None
+2024-08-01 10:22:26,044 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:26,249 DEBUG "GET /country/es?page=20 HTTP/1.1" 200 None
+2024-08-01 10:22:26,287 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:26,581 DEBUG "GET /country/es?page=21 HTTP/1.1" 200 None
+2024-08-01 10:22:26,615 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:26,807 DEBUG "GET /country/es?page=22 HTTP/1.1" 200 None
+2024-08-01 10:22:26,840 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:27,045 DEBUG "GET /country/es?page=23 HTTP/1.1" 200 None
+2024-08-01 10:22:27,077 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:27,285 DEBUG "GET /country/es?page=24 HTTP/1.1" 200 None
+2024-08-01 10:22:27,317 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:27,504 DEBUG "GET /country/es?page=25 HTTP/1.1" 200 None
+2024-08-01 10:22:27,536 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:27,729 DEBUG "GET /country/es?page=26 HTTP/1.1" 200 None
+2024-08-01 10:22:27,766 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:28,080 DEBUG "GET /country/es?page=27 HTTP/1.1" 200 None
+2024-08-01 10:22:28,112 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:28,443 DEBUG "GET /country/es?page=28 HTTP/1.1" 200 None
+2024-08-01 10:22:28,478 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:28,694 DEBUG "GET /country/es?page=29 HTTP/1.1" 200 None
+2024-08-01 10:22:28,726 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:28,968 DEBUG "GET /country/es?page=30 HTTP/1.1" 200 None
+2024-08-01 10:22:29,001 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:29,230 DEBUG "GET /country/es?page=31 HTTP/1.1" 200 None
+2024-08-01 10:22:29,280 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:29,502 DEBUG "GET /country/es?page=32 HTTP/1.1" 200 None
+2024-08-01 10:22:29,534 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:29,744 DEBUG "GET /country/es?page=33 HTTP/1.1" 200 None
+2024-08-01 10:22:29,776 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:30,026 DEBUG "GET /country/es?page=34 HTTP/1.1" 200 None
+2024-08-01 10:22:30,058 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:30,280 DEBUG "GET /country/es?page=35 HTTP/1.1" 200 None
+2024-08-01 10:22:30,312 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:30,540 DEBUG "GET /country/es?page=36 HTTP/1.1" 200 None
+2024-08-01 10:22:30,573 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:30,772 DEBUG "GET /country/es?page=37 HTTP/1.1" 200 None
+2024-08-01 10:22:30,804 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:31,013 DEBUG "GET /country/es?page=38 HTTP/1.1" 200 None
+2024-08-01 10:22:31,044 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:31,262 DEBUG "GET /country/es?page=39 HTTP/1.1" 200 None
+2024-08-01 10:22:31,294 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:31,527 DEBUG "GET /country/es?page=40 HTTP/1.1" 200 None
+2024-08-01 10:22:31,560 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:31,775 DEBUG "GET /country/es?page=41 HTTP/1.1" 200 None
+2024-08-01 10:22:31,809 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:32,003 DEBUG "GET /country/es?page=42 HTTP/1.1" 200 None
+2024-08-01 10:22:32,037 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:32,216 DEBUG "GET /country/es?page=43 HTTP/1.1" 200 None
+2024-08-01 10:22:32,248 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:32,487 DEBUG "GET /country/es?page=44 HTTP/1.1" 200 None
+2024-08-01 10:22:32,519 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:32,722 DEBUG "GET /country/es?page=45 HTTP/1.1" 200 None
+2024-08-01 10:22:32,754 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:32,944 DEBUG "GET /country/es?page=46 HTTP/1.1" 200 None
+2024-08-01 10:22:32,976 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:33,186 DEBUG "GET /country/es?page=47 HTTP/1.1" 200 None
+2024-08-01 10:22:33,221 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:33,428 DEBUG "GET /country/es?page=48 HTTP/1.1" 200 None
+2024-08-01 10:22:33,467 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:33,692 DEBUG "GET /country/es?page=49 HTTP/1.1" 200 None
+2024-08-01 10:22:33,724 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:33,931 DEBUG "GET /country/es?page=50 HTTP/1.1" 200 None
+2024-08-01 10:22:33,963 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:34,175 DEBUG "GET /country/es?page=51 HTTP/1.1" 200 None
+2024-08-01 10:22:34,207 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:34,437 DEBUG "GET /country/es?page=52 HTTP/1.1" 200 None
+2024-08-01 10:22:34,469 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:34,668 DEBUG "GET /country/es?page=53 HTTP/1.1" 200 None
+2024-08-01 10:22:34,700 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:34,923 DEBUG "GET /country/es?page=54 HTTP/1.1" 200 None
+2024-08-01 10:22:34,961 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:35,273 DEBUG "GET /country/es?page=55 HTTP/1.1" 200 None
+2024-08-01 10:22:35,314 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:35,539 DEBUG "GET /country/es?page=56 HTTP/1.1" 200 None
+2024-08-01 10:22:35,578 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:35,782 DEBUG "GET /country/es?page=57 HTTP/1.1" 200 None
+2024-08-01 10:22:35,828 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:36,029 DEBUG "GET /country/es?page=58 HTTP/1.1" 200 None
+2024-08-01 10:22:36,061 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:36,290 DEBUG "GET /country/es?page=59 HTTP/1.1" 200 None
+2024-08-01 10:22:36,322 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:36,510 DEBUG "GET /country/es?page=60 HTTP/1.1" 200 None
+2024-08-01 10:22:36,551 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:36,778 DEBUG "GET /country/es?page=61 HTTP/1.1" 200 None
+2024-08-01 10:22:36,819 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:37,014 DEBUG "GET /country/es?page=62 HTTP/1.1" 200 None
+2024-08-01 10:22:37,046 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:37,253 DEBUG "GET /country/es?page=63 HTTP/1.1" 200 None
+2024-08-01 10:22:37,287 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:37,499 DEBUG "GET /country/es?page=64 HTTP/1.1" 200 None
+2024-08-01 10:22:37,532 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:37,737 DEBUG "GET /country/es?page=65 HTTP/1.1" 200 None
+2024-08-01 10:22:37,769 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:37,999 DEBUG "GET /country/es?page=66 HTTP/1.1" 200 None
+2024-08-01 10:22:38,033 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:38,214 DEBUG "GET /country/es?page=67 HTTP/1.1" 200 None
+2024-08-01 10:22:38,247 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:38,439 DEBUG "GET /country/es?page=68 HTTP/1.1" 200 None
+2024-08-01 10:22:38,471 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:38,665 DEBUG "GET /country/es?page=69 HTTP/1.1" 200 None
+2024-08-01 10:22:38,698 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:38,883 DEBUG "GET /country/es?page=70 HTTP/1.1" 200 None
+2024-08-01 10:22:38,916 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:39,133 DEBUG "GET /country/es?page=71 HTTP/1.1" 200 None
+2024-08-01 10:22:39,171 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:39,375 DEBUG "GET /country/es?page=72 HTTP/1.1" 200 None
+2024-08-01 10:22:39,407 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:39,609 DEBUG "GET /country/es?page=73 HTTP/1.1" 200 None
+2024-08-01 10:22:39,642 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:22:39,853 DEBUG "GET /country/es?page=74 HTTP/1.1" 200 None
+2024-08-01 10:23:28,962 ERROR Traceback (most recent call last):
+2024-08-01 10:23:28,964 ERROR   File "testCardReaderLinux.py", line 782, in <module>
+2024-08-01 10:23:28,968 ERROR card.getBankName()
+2024-08-01 10:23:28,970 ERROR   File "testCardReaderLinux.py", line 741, in getBankName
+2024-08-01 10:23:28,974 ERROR self.use_RF()
+2024-08-01 10:23:28,976 ERROR   File "testCardReaderLinux.py", line 654, in use_RF
+2024-08-01 10:23:28,980 ERROR else : self.retrieveInformationRF(response[8:])
+2024-08-01 10:23:28,982 ERROR   File "testCardReaderLinux.py", line 599, in retrieveInformationRF
+2024-08-01 10:23:28,986 ERROR list_of_records = self.getAIPAFL(response)
+2024-08-01 10:23:28,988 ERROR   File "testCardReaderLinux.py", line 516, in getAIPAFL
+2024-08-01 10:23:28,992 ERROR newList.append([response[j+x+12] for x in range(4)])
+2024-08-01 10:23:28,994 ERROR   File "testCardReaderLinux.py", line 516, in <listcomp>
+2024-08-01 10:23:28,998 ERROR newList.append([response[j+x+12] for x in range(4)])
+2024-08-01 10:23:29,000 ERROR IndexError
+2024-08-01 10:23:29,001 ERROR :
+2024-08-01 10:23:29,003 ERROR index out of range
+2024-08-01 10:25:52,182 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:25:52,316 ERROR /usr/lib/python3/dist-packages/urllib3/connectionpool.py:732: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.org/en/latest/security.html (This warning will only appear once by default.)
+2024-08-01 10:25:52,318 ERROR   InsecureRequestWarning)
+2024-08-01 10:25:52,406 DEBUG "GET /country/es?page=1 HTTP/1.1" 200 None
+2024-08-01 10:25:52,443 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:25:52,685 DEBUG "GET /country/es?page=2 HTTP/1.1" 200 None
+2024-08-01 10:25:52,718 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:25:52,958 DEBUG "GET /country/es?page=3 HTTP/1.1" 200 None
+2024-08-01 10:25:52,991 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:25:53,198 DEBUG "GET /country/es?page=4 HTTP/1.1" 200 None
+2024-08-01 10:25:53,240 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:25:53,448 DEBUG "GET /country/es?page=5 HTTP/1.1" 200 None
+2024-08-01 10:25:53,493 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:25:53,729 DEBUG "GET /country/es?page=6 HTTP/1.1" 200 None
+2024-08-01 10:25:53,774 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:25:53,972 DEBUG "GET /country/es?page=7 HTTP/1.1" 200 None
+2024-08-01 10:25:54,007 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:25:54,217 DEBUG "GET /country/es?page=8 HTTP/1.1" 200 None
+2024-08-01 10:25:54,251 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:25:54,462 DEBUG "GET /country/es?page=9 HTTP/1.1" 200 None
+2024-08-01 10:25:54,495 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:25:54,696 DEBUG "GET /country/es?page=10 HTTP/1.1" 200 None
+2024-08-01 10:25:54,729 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:25:54,947 DEBUG "GET /country/es?page=11 HTTP/1.1" 200 None
+2024-08-01 10:25:54,980 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:25:55,287 DEBUG "GET /country/es?page=12 HTTP/1.1" 200 None
+2024-08-01 10:25:55,319 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:25:55,520 DEBUG "GET /country/es?page=13 HTTP/1.1" 200 None
+2024-08-01 10:25:55,552 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:25:55,742 DEBUG "GET /country/es?page=14 HTTP/1.1" 200 None
+2024-08-01 10:25:55,775 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:25:55,989 DEBUG "GET /country/es?page=15 HTTP/1.1" 200 None
+2024-08-01 10:25:56,023 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:25:56,235 DEBUG "GET /country/es?page=16 HTTP/1.1" 200 None
+2024-08-01 10:25:56,272 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:25:56,467 DEBUG "GET /country/es?page=17 HTTP/1.1" 200 None
+2024-08-01 10:25:56,500 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:25:56,707 DEBUG "GET /country/es?page=18 HTTP/1.1" 200 None
+2024-08-01 10:25:56,739 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:25:56,943 DEBUG "GET /country/es?page=19 HTTP/1.1" 200 None
+2024-08-01 10:25:56,976 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:25:57,173 DEBUG "GET /country/es?page=20 HTTP/1.1" 200 None
+2024-08-01 10:25:57,207 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:25:57,479 DEBUG "GET /country/es?page=21 HTTP/1.1" 200 None
+2024-08-01 10:25:57,511 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:25:57,732 DEBUG "GET /country/es?page=22 HTTP/1.1" 200 None
+2024-08-01 10:25:57,769 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:25:57,983 DEBUG "GET /country/es?page=23 HTTP/1.1" 200 None
+2024-08-01 10:25:58,015 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:25:58,215 DEBUG "GET /country/es?page=24 HTTP/1.1" 200 None
+2024-08-01 10:25:58,248 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:25:58,438 DEBUG "GET /country/es?page=25 HTTP/1.1" 200 None
+2024-08-01 10:25:58,471 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:25:58,659 DEBUG "GET /country/es?page=26 HTTP/1.1" 200 None
+2024-08-01 10:25:58,693 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:25:58,915 DEBUG "GET /country/es?page=27 HTTP/1.1" 200 None
+2024-08-01 10:25:58,947 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:25:59,166 DEBUG "GET /country/es?page=28 HTTP/1.1" 200 None
+2024-08-01 10:25:59,211 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:25:59,442 DEBUG "GET /country/es?page=29 HTTP/1.1" 200 None
+2024-08-01 10:25:59,478 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:25:59,700 DEBUG "GET /country/es?page=30 HTTP/1.1" 200 None
+2024-08-01 10:25:59,732 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:25:59,932 DEBUG "GET /country/es?page=31 HTTP/1.1" 200 None
+2024-08-01 10:25:59,964 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:00,190 DEBUG "GET /country/es?page=32 HTTP/1.1" 200 None
+2024-08-01 10:26:00,222 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:00,429 DEBUG "GET /country/es?page=33 HTTP/1.1" 200 None
+2024-08-01 10:26:00,466 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:00,694 DEBUG "GET /country/es?page=34 HTTP/1.1" 200 None
+2024-08-01 10:26:00,726 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:00,907 DEBUG "GET /country/es?page=35 HTTP/1.1" 200 None
+2024-08-01 10:26:00,939 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:01,130 DEBUG "GET /country/es?page=36 HTTP/1.1" 200 None
+2024-08-01 10:26:01,163 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:01,358 DEBUG "GET /country/es?page=37 HTTP/1.1" 200 None
+2024-08-01 10:26:01,391 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:01,592 DEBUG "GET /country/es?page=38 HTTP/1.1" 200 None
+2024-08-01 10:26:01,625 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:01,842 DEBUG "GET /country/es?page=39 HTTP/1.1" 200 None
+2024-08-01 10:26:01,874 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:02,113 DEBUG "GET /country/es?page=40 HTTP/1.1" 200 None
+2024-08-01 10:26:02,145 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:02,349 DEBUG "GET /country/es?page=41 HTTP/1.1" 200 None
+2024-08-01 10:26:02,382 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:02,575 DEBUG "GET /country/es?page=42 HTTP/1.1" 200 None
+2024-08-01 10:26:02,608 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:02,803 DEBUG "GET /country/es?page=43 HTTP/1.1" 200 None
+2024-08-01 10:26:02,835 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:03,064 DEBUG "GET /country/es?page=44 HTTP/1.1" 200 None
+2024-08-01 10:26:03,096 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:03,299 DEBUG "GET /country/es?page=45 HTTP/1.1" 200 None
+2024-08-01 10:26:03,331 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:03,560 DEBUG "GET /country/es?page=46 HTTP/1.1" 200 None
+2024-08-01 10:26:03,592 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:03,825 DEBUG "GET /country/es?page=47 HTTP/1.1" 200 None
+2024-08-01 10:26:03,857 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:04,072 DEBUG "GET /country/es?page=48 HTTP/1.1" 200 None
+2024-08-01 10:26:04,104 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:04,308 DEBUG "GET /country/es?page=49 HTTP/1.1" 200 None
+2024-08-01 10:26:04,340 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:04,538 DEBUG "GET /country/es?page=50 HTTP/1.1" 200 None
+2024-08-01 10:26:04,570 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:04,784 DEBUG "GET /country/es?page=51 HTTP/1.1" 200 None
+2024-08-01 10:26:04,815 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:05,027 DEBUG "GET /country/es?page=52 HTTP/1.1" 200 None
+2024-08-01 10:26:05,068 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:05,275 DEBUG "GET /country/es?page=53 HTTP/1.1" 200 None
+2024-08-01 10:26:05,307 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:05,511 DEBUG "GET /country/es?page=54 HTTP/1.1" 200 None
+2024-08-01 10:26:05,556 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:05,835 DEBUG "GET /country/es?page=55 HTTP/1.1" 200 None
+2024-08-01 10:26:05,877 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:06,078 DEBUG "GET /country/es?page=56 HTTP/1.1" 200 None
+2024-08-01 10:26:06,109 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:06,302 DEBUG "GET /country/es?page=57 HTTP/1.1" 200 None
+2024-08-01 10:26:06,337 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:06,564 DEBUG "GET /country/es?page=58 HTTP/1.1" 200 None
+2024-08-01 10:26:06,596 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:06,800 DEBUG "GET /country/es?page=59 HTTP/1.1" 200 None
+2024-08-01 10:26:06,832 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:07,029 DEBUG "GET /country/es?page=60 HTTP/1.1" 200 None
+2024-08-01 10:26:07,067 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:07,378 DEBUG "GET /country/es?page=61 HTTP/1.1" 200 None
+2024-08-01 10:26:07,410 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:07,622 DEBUG "GET /country/es?page=62 HTTP/1.1" 200 None
+2024-08-01 10:26:07,658 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:07,852 DEBUG "GET /country/es?page=63 HTTP/1.1" 200 None
+2024-08-01 10:26:07,884 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:08,083 DEBUG "GET /country/es?page=64 HTTP/1.1" 200 None
+2024-08-01 10:26:08,115 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:08,336 DEBUG "GET /country/es?page=65 HTTP/1.1" 200 None
+2024-08-01 10:26:08,368 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:08,574 DEBUG "GET /country/es?page=66 HTTP/1.1" 200 None
+2024-08-01 10:26:08,608 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:08,805 DEBUG "GET /country/es?page=67 HTTP/1.1" 200 None
+2024-08-01 10:26:08,837 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:09,034 DEBUG "GET /country/es?page=68 HTTP/1.1" 200 None
+2024-08-01 10:26:09,065 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:09,284 DEBUG "GET /country/es?page=69 HTTP/1.1" 200 None
+2024-08-01 10:26:09,317 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:09,500 DEBUG "GET /country/es?page=70 HTTP/1.1" 200 None
+2024-08-01 10:26:09,532 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:09,792 DEBUG "GET /country/es?page=71 HTTP/1.1" 200 None
+2024-08-01 10:26:09,824 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:10,024 DEBUG "GET /country/es?page=72 HTTP/1.1" 200 None
+2024-08-01 10:26:10,061 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:10,270 DEBUG "GET /country/es?page=73 HTTP/1.1" 200 None
+2024-08-01 10:26:10,302 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:26:10,489 DEBUG "GET /country/es?page=74 HTTP/1.1" 200 None
+2024-08-01 10:26:39,563 ERROR Traceback (most recent call last):
+2024-08-01 10:26:39,565 ERROR   File "testCardReaderLinux.py", line 784, in <module>
+2024-08-01 10:26:39,569 ERROR card.getBankName()
+2024-08-01 10:26:39,571 ERROR   File "testCardReaderLinux.py", line 743, in getBankName
+2024-08-01 10:26:39,576 ERROR self.use_RF()
+2024-08-01 10:26:39,578 ERROR   File "testCardReaderLinux.py", line 656, in use_RF
+2024-08-01 10:26:39,582 ERROR else : self.retrieveInformationRF(response[8:])
+2024-08-01 10:26:39,584 ERROR   File "testCardReaderLinux.py", line 601, in retrieveInformationRF
+2024-08-01 10:26:39,588 ERROR list_of_records = self.getAIPAFL(response)
+2024-08-01 10:26:39,590 ERROR   File "testCardReaderLinux.py", line 518, in getAIPAFL
+2024-08-01 10:26:39,594 ERROR newList.append([response[j+x+12] for x in range(4)])
+2024-08-01 10:26:39,596 ERROR   File "testCardReaderLinux.py", line 518, in <listcomp>
+2024-08-01 10:26:39,599 ERROR newList.append([response[j+x+12] for x in range(4)])
+2024-08-01 10:26:39,601 ERROR IndexError
+2024-08-01 10:26:39,603 ERROR :
+2024-08-01 10:26:39,604 ERROR index out of range
+2024-08-01 10:28:19,119 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:19,251 ERROR /usr/lib/python3/dist-packages/urllib3/connectionpool.py:732: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.org/en/latest/security.html (This warning will only appear once by default.)
+2024-08-01 10:28:19,253 ERROR   InsecureRequestWarning)
+2024-08-01 10:28:19,379 DEBUG "GET /country/es?page=1 HTTP/1.1" 200 None
+2024-08-01 10:28:19,416 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:19,644 DEBUG "GET /country/es?page=2 HTTP/1.1" 200 None
+2024-08-01 10:28:19,683 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:19,917 DEBUG "GET /country/es?page=3 HTTP/1.1" 200 None
+2024-08-01 10:28:19,955 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:20,174 DEBUG "GET /country/es?page=4 HTTP/1.1" 200 None
+2024-08-01 10:28:20,207 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:20,399 DEBUG "GET /country/es?page=5 HTTP/1.1" 200 None
+2024-08-01 10:28:20,432 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:20,648 DEBUG "GET /country/es?page=6 HTTP/1.1" 200 None
+2024-08-01 10:28:20,681 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:20,891 DEBUG "GET /country/es?page=7 HTTP/1.1" 200 None
+2024-08-01 10:28:20,925 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:21,157 DEBUG "GET /country/es?page=8 HTTP/1.1" 200 None
+2024-08-01 10:28:21,203 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:21,414 DEBUG "GET /country/es?page=9 HTTP/1.1" 200 None
+2024-08-01 10:28:21,446 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:21,765 DEBUG "GET /country/es?page=10 HTTP/1.1" 200 None
+2024-08-01 10:28:21,798 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:22,003 DEBUG "GET /country/es?page=11 HTTP/1.1" 200 None
+2024-08-01 10:28:22,036 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:22,248 DEBUG "GET /country/es?page=12 HTTP/1.1" 200 None
+2024-08-01 10:28:22,281 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:22,601 DEBUG "GET /country/es?page=13 HTTP/1.1" 200 None
+2024-08-01 10:28:22,634 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:22,845 DEBUG "GET /country/es?page=14 HTTP/1.1" 200 None
+2024-08-01 10:28:22,878 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:23,097 DEBUG "GET /country/es?page=15 HTTP/1.1" 200 None
+2024-08-01 10:28:23,137 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:23,366 DEBUG "GET /country/es?page=16 HTTP/1.1" 200 None
+2024-08-01 10:28:23,412 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:23,729 DEBUG "GET /country/es?page=17 HTTP/1.1" 200 None
+2024-08-01 10:28:23,771 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:23,971 DEBUG "GET /country/es?page=18 HTTP/1.1" 200 None
+2024-08-01 10:28:24,004 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:24,217 DEBUG "GET /country/es?page=19 HTTP/1.1" 200 None
+2024-08-01 10:28:24,251 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:24,459 DEBUG "GET /country/es?page=20 HTTP/1.1" 200 None
+2024-08-01 10:28:24,496 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:24,731 DEBUG "GET /country/es?page=21 HTTP/1.1" 200 None
+2024-08-01 10:28:24,769 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:24,978 DEBUG "GET /country/es?page=22 HTTP/1.1" 200 None
+2024-08-01 10:28:25,011 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:25,229 DEBUG "GET /country/es?page=23 HTTP/1.1" 200 None
+2024-08-01 10:28:25,261 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:25,452 DEBUG "GET /country/es?page=24 HTTP/1.1" 200 None
+2024-08-01 10:28:25,485 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:25,681 DEBUG "GET /country/es?page=25 HTTP/1.1" 200 None
+2024-08-01 10:28:25,715 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:25,903 DEBUG "GET /country/es?page=26 HTTP/1.1" 200 None
+2024-08-01 10:28:25,937 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:26,167 DEBUG "GET /country/es?page=27 HTTP/1.1" 200 None
+2024-08-01 10:28:26,200 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:26,388 DEBUG "GET /country/es?page=28 HTTP/1.1" 200 None
+2024-08-01 10:28:26,423 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:26,657 DEBUG "GET /country/es?page=29 HTTP/1.1" 200 None
+2024-08-01 10:28:26,690 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:26,900 DEBUG "GET /country/es?page=30 HTTP/1.1" 200 None
+2024-08-01 10:28:26,932 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:27,168 DEBUG "GET /country/es?page=31 HTTP/1.1" 200 None
+2024-08-01 10:28:27,201 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:27,401 DEBUG "GET /country/es?page=32 HTTP/1.1" 200 None
+2024-08-01 10:28:27,434 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:27,643 DEBUG "GET /country/es?page=33 HTTP/1.1" 200 None
+2024-08-01 10:28:27,676 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:27,881 DEBUG "GET /country/es?page=34 HTTP/1.1" 200 None
+2024-08-01 10:28:27,914 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:28,128 DEBUG "GET /country/es?page=35 HTTP/1.1" 200 None
+2024-08-01 10:28:28,161 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:28,377 DEBUG "GET /country/es?page=36 HTTP/1.1" 200 None
+2024-08-01 10:28:28,410 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:28,605 DEBUG "GET /country/es?page=37 HTTP/1.1" 200 None
+2024-08-01 10:28:28,638 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:28,845 DEBUG "GET /country/es?page=38 HTTP/1.1" 200 None
+2024-08-01 10:28:28,878 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:29,082 DEBUG "GET /country/es?page=39 HTTP/1.1" 200 None
+2024-08-01 10:28:29,124 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:29,341 DEBUG "GET /country/es?page=40 HTTP/1.1" 200 None
+2024-08-01 10:28:29,387 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:29,615 DEBUG "GET /country/es?page=41 HTTP/1.1" 200 None
+2024-08-01 10:28:29,648 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:29,843 DEBUG "GET /country/es?page=42 HTTP/1.1" 200 None
+2024-08-01 10:28:29,882 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:30,081 DEBUG "GET /country/es?page=43 HTTP/1.1" 200 None
+2024-08-01 10:28:30,115 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:30,337 DEBUG "GET /country/es?page=44 HTTP/1.1" 200 None
+2024-08-01 10:28:30,370 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:30,573 DEBUG "GET /country/es?page=45 HTTP/1.1" 200 None
+2024-08-01 10:28:30,606 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:30,807 DEBUG "GET /country/es?page=46 HTTP/1.1" 200 None
+2024-08-01 10:28:30,840 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:31,068 DEBUG "GET /country/es?page=47 HTTP/1.1" 200 None
+2024-08-01 10:28:31,102 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:31,314 DEBUG "GET /country/es?page=48 HTTP/1.1" 200 None
+2024-08-01 10:28:31,348 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:31,561 DEBUG "GET /country/es?page=49 HTTP/1.1" 200 None
+2024-08-01 10:28:31,595 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:31,803 DEBUG "GET /country/es?page=50 HTTP/1.1" 200 None
+2024-08-01 10:28:31,836 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:32,038 DEBUG "GET /country/es?page=51 HTTP/1.1" 200 None
+2024-08-01 10:28:32,073 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:32,273 DEBUG "GET /country/es?page=52 HTTP/1.1" 200 None
+2024-08-01 10:28:32,306 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:32,525 DEBUG "GET /country/es?page=53 HTTP/1.1" 200 None
+2024-08-01 10:28:32,563 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:32,805 DEBUG "GET /country/es?page=54 HTTP/1.1" 200 None
+2024-08-01 10:28:32,838 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:33,126 DEBUG "GET /country/es?page=55 HTTP/1.1" 200 None
+2024-08-01 10:28:33,164 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:33,365 DEBUG "GET /country/es?page=56 HTTP/1.1" 200 None
+2024-08-01 10:28:33,397 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:33,593 DEBUG "GET /country/es?page=57 HTTP/1.1" 200 None
+2024-08-01 10:28:33,629 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:33,838 DEBUG "GET /country/es?page=58 HTTP/1.1" 200 None
+2024-08-01 10:28:33,871 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:34,081 DEBUG "GET /country/es?page=59 HTTP/1.1" 200 None
+2024-08-01 10:28:34,115 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:34,316 DEBUG "GET /country/es?page=60 HTTP/1.1" 200 None
+2024-08-01 10:28:34,349 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:34,581 DEBUG "GET /country/es?page=61 HTTP/1.1" 200 None
+2024-08-01 10:28:34,614 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:34,824 DEBUG "GET /country/es?page=62 HTTP/1.1" 200 None
+2024-08-01 10:28:34,857 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:35,071 DEBUG "GET /country/es?page=63 HTTP/1.1" 200 None
+2024-08-01 10:28:35,114 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:35,330 DEBUG "GET /country/es?page=64 HTTP/1.1" 200 None
+2024-08-01 10:28:35,377 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:35,583 DEBUG "GET /country/es?page=65 HTTP/1.1" 200 None
+2024-08-01 10:28:35,617 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:35,824 DEBUG "GET /country/es?page=66 HTTP/1.1" 200 None
+2024-08-01 10:28:35,870 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:36,074 DEBUG "GET /country/es?page=67 HTTP/1.1" 200 None
+2024-08-01 10:28:36,108 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:36,358 DEBUG "GET /country/es?page=68 HTTP/1.1" 200 None
+2024-08-01 10:28:36,391 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:36,601 DEBUG "GET /country/es?page=69 HTTP/1.1" 200 None
+2024-08-01 10:28:36,634 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:36,835 DEBUG "GET /country/es?page=70 HTTP/1.1" 200 None
+2024-08-01 10:28:36,869 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:37,078 DEBUG "GET /country/es?page=71 HTTP/1.1" 200 None
+2024-08-01 10:28:37,111 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:37,407 DEBUG "GET /country/es?page=72 HTTP/1.1" 200 None
+2024-08-01 10:28:37,443 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:37,639 DEBUG "GET /country/es?page=73 HTTP/1.1" 200 None
+2024-08-01 10:28:37,679 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:28:37,872 DEBUG "GET /country/es?page=74 HTTP/1.1" 200 None
+2024-08-01 10:29:04,232 ERROR Traceback (most recent call last):
+2024-08-01 10:29:04,236 ERROR   File "testCardReaderLinux.py", line 789, in <module>
+2024-08-01 10:29:04,241 ERROR time.sleep(2)
+2024-08-01 10:29:04,243 ERROR KeyboardInterrupt
+2024-08-01 10:36:12,912 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:13,049 ERROR /usr/lib/python3/dist-packages/urllib3/connectionpool.py:732: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.org/en/latest/security.html (This warning will only appear once by default.)
+2024-08-01 10:36:13,057 ERROR   InsecureRequestWarning)
+2024-08-01 10:36:13,152 DEBUG "GET /country/es?page=1 HTTP/1.1" 200 None
+2024-08-01 10:36:13,189 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:13,402 DEBUG "GET /country/es?page=2 HTTP/1.1" 200 None
+2024-08-01 10:36:13,435 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:13,646 DEBUG "GET /country/es?page=3 HTTP/1.1" 200 None
+2024-08-01 10:36:13,685 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:13,927 DEBUG "GET /country/es?page=4 HTTP/1.1" 200 None
+2024-08-01 10:36:13,966 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:14,167 DEBUG "GET /country/es?page=5 HTTP/1.1" 200 None
+2024-08-01 10:36:14,199 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:14,414 DEBUG "GET /country/es?page=6 HTTP/1.1" 200 None
+2024-08-01 10:36:14,448 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:14,643 DEBUG "GET /country/es?page=7 HTTP/1.1" 200 None
+2024-08-01 10:36:14,678 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:14,953 DEBUG "GET /country/es?page=8 HTTP/1.1" 200 None
+2024-08-01 10:36:14,985 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:15,201 DEBUG "GET /country/es?page=9 HTTP/1.1" 200 None
+2024-08-01 10:36:15,235 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:15,478 DEBUG "GET /country/es?page=10 HTTP/1.1" 200 None
+2024-08-01 10:36:15,510 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:15,749 DEBUG "GET /country/es?page=11 HTTP/1.1" 200 None
+2024-08-01 10:36:15,781 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:16,012 DEBUG "GET /country/es?page=12 HTTP/1.1" 200 None
+2024-08-01 10:36:16,044 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:16,264 DEBUG "GET /country/es?page=13 HTTP/1.1" 200 None
+2024-08-01 10:36:16,296 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:16,521 DEBUG "GET /country/es?page=14 HTTP/1.1" 200 None
+2024-08-01 10:36:16,564 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:16,772 DEBUG "GET /country/es?page=15 HTTP/1.1" 200 None
+2024-08-01 10:36:16,805 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:17,071 DEBUG "GET /country/es?page=16 HTTP/1.1" 200 None
+2024-08-01 10:36:17,112 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:17,325 DEBUG "GET /country/es?page=17 HTTP/1.1" 200 None
+2024-08-01 10:36:17,367 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:17,577 DEBUG "GET /country/es?page=18 HTTP/1.1" 200 None
+2024-08-01 10:36:17,609 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:17,836 DEBUG "GET /country/es?page=19 HTTP/1.1" 200 None
+2024-08-01 10:36:17,875 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:18,107 DEBUG "GET /country/es?page=20 HTTP/1.1" 200 None
+2024-08-01 10:36:18,140 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:18,475 DEBUG "GET /country/es?page=21 HTTP/1.1" 200 None
+2024-08-01 10:36:18,507 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:18,713 DEBUG "GET /country/es?page=22 HTTP/1.1" 200 None
+2024-08-01 10:36:18,763 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:18,974 DEBUG "GET /country/es?page=23 HTTP/1.1" 200 None
+2024-08-01 10:36:19,006 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:19,310 DEBUG "GET /country/es?page=24 HTTP/1.1" 200 None
+2024-08-01 10:36:19,343 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:19,542 DEBUG "GET /country/es?page=25 HTTP/1.1" 200 None
+2024-08-01 10:36:19,585 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:19,786 DEBUG "GET /country/es?page=26 HTTP/1.1" 200 None
+2024-08-01 10:36:19,819 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:20,065 DEBUG "GET /country/es?page=27 HTTP/1.1" 200 None
+2024-08-01 10:36:20,097 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:20,367 DEBUG "GET /country/es?page=28 HTTP/1.1" 200 None
+2024-08-01 10:36:20,402 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:20,604 DEBUG "GET /country/es?page=29 HTTP/1.1" 200 None
+2024-08-01 10:36:20,637 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:20,856 DEBUG "GET /country/es?page=30 HTTP/1.1" 200 None
+2024-08-01 10:36:20,889 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:21,134 DEBUG "GET /country/es?page=31 HTTP/1.1" 200 None
+2024-08-01 10:36:21,170 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:21,407 DEBUG "GET /country/es?page=32 HTTP/1.1" 200 None
+2024-08-01 10:36:21,440 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:21,677 DEBUG "GET /country/es?page=33 HTTP/1.1" 200 None
+2024-08-01 10:36:21,709 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:21,913 DEBUG "GET /country/es?page=34 HTTP/1.1" 200 None
+2024-08-01 10:36:21,945 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:22,156 DEBUG "GET /country/es?page=35 HTTP/1.1" 200 None
+2024-08-01 10:36:22,189 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:22,417 DEBUG "GET /country/es?page=36 HTTP/1.1" 200 None
+2024-08-01 10:36:22,450 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:22,649 DEBUG "GET /country/es?page=37 HTTP/1.1" 200 None
+2024-08-01 10:36:22,687 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:22,885 DEBUG "GET /country/es?page=38 HTTP/1.1" 200 None
+2024-08-01 10:36:22,916 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:23,118 DEBUG "GET /country/es?page=39 HTTP/1.1" 200 None
+2024-08-01 10:36:23,162 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:23,388 DEBUG "GET /country/es?page=40 HTTP/1.1" 200 None
+2024-08-01 10:36:23,428 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:23,633 DEBUG "GET /country/es?page=41 HTTP/1.1" 200 None
+2024-08-01 10:36:23,666 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:23,880 DEBUG "GET /country/es?page=42 HTTP/1.1" 200 None
+2024-08-01 10:36:23,917 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:24,129 DEBUG "GET /country/es?page=43 HTTP/1.1" 200 None
+2024-08-01 10:36:24,167 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:24,372 DEBUG "GET /country/es?page=44 HTTP/1.1" 200 None
+2024-08-01 10:36:24,404 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:24,631 DEBUG "GET /country/es?page=45 HTTP/1.1" 200 None
+2024-08-01 10:36:24,664 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:24,862 DEBUG "GET /country/es?page=46 HTTP/1.1" 200 None
+2024-08-01 10:36:24,895 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:25,107 DEBUG "GET /country/es?page=47 HTTP/1.1" 200 None
+2024-08-01 10:36:25,148 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:25,333 DEBUG "GET /country/es?page=48 HTTP/1.1" 200 None
+2024-08-01 10:36:25,371 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:25,568 DEBUG "GET /country/es?page=49 HTTP/1.1" 200 None
+2024-08-01 10:36:25,611 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:25,835 DEBUG "GET /country/es?page=50 HTTP/1.1" 200 None
+2024-08-01 10:36:25,866 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:26,080 DEBUG "GET /country/es?page=51 HTTP/1.1" 200 None
+2024-08-01 10:36:26,112 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:26,309 DEBUG "GET /country/es?page=52 HTTP/1.1" 200 None
+2024-08-01 10:36:26,341 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:26,559 DEBUG "GET /country/es?page=53 HTTP/1.1" 200 None
+2024-08-01 10:36:26,591 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:26,829 DEBUG "GET /country/es?page=54 HTTP/1.1" 200 None
+2024-08-01 10:36:26,868 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:27,075 DEBUG "GET /country/es?page=55 HTTP/1.1" 200 None
+2024-08-01 10:36:27,107 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:27,297 DEBUG "GET /country/es?page=56 HTTP/1.1" 200 None
+2024-08-01 10:36:27,330 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:27,545 DEBUG "GET /country/es?page=57 HTTP/1.1" 200 None
+2024-08-01 10:36:27,580 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:27,780 DEBUG "GET /country/es?page=58 HTTP/1.1" 200 None
+2024-08-01 10:36:27,812 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:28,015 DEBUG "GET /country/es?page=59 HTTP/1.1" 200 None
+2024-08-01 10:36:28,047 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:28,293 DEBUG "GET /country/es?page=60 HTTP/1.1" 200 None
+2024-08-01 10:36:28,326 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:28,529 DEBUG "GET /country/es?page=61 HTTP/1.1" 200 None
+2024-08-01 10:36:28,561 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:28,764 DEBUG "GET /country/es?page=62 HTTP/1.1" 200 None
+2024-08-01 10:36:28,795 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:28,977 DEBUG "GET /country/es?page=63 HTTP/1.1" 200 None
+2024-08-01 10:36:29,010 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:29,306 DEBUG "GET /country/es?page=64 HTTP/1.1" 200 None
+2024-08-01 10:36:29,345 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:29,563 DEBUG "GET /country/es?page=65 HTTP/1.1" 200 None
+2024-08-01 10:36:29,595 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:29,790 DEBUG "GET /country/es?page=66 HTTP/1.1" 200 None
+2024-08-01 10:36:29,824 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:30,031 DEBUG "GET /country/es?page=67 HTTP/1.1" 200 None
+2024-08-01 10:36:30,064 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:30,253 DEBUG "GET /country/es?page=68 HTTP/1.1" 200 None
+2024-08-01 10:36:30,290 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:30,480 DEBUG "GET /country/es?page=69 HTTP/1.1" 200 None
+2024-08-01 10:36:30,512 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:30,720 DEBUG "GET /country/es?page=70 HTTP/1.1" 200 None
+2024-08-01 10:36:30,757 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:30,958 DEBUG "GET /country/es?page=71 HTTP/1.1" 200 None
+2024-08-01 10:36:30,990 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:31,225 DEBUG "GET /country/es?page=72 HTTP/1.1" 200 None
+2024-08-01 10:36:31,258 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:31,477 DEBUG "GET /country/es?page=73 HTTP/1.1" 200 None
+2024-08-01 10:36:31,509 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 10:36:31,702 DEBUG "GET /country/es?page=74 HTTP/1.1" 200 None
+2024-08-01 10:37:16,434 ERROR Traceback (most recent call last):
+2024-08-01 10:37:16,436 ERROR   File "testCardReaderLinux.py", line 790, in <module>
+2024-08-01 10:37:16,440 ERROR time.sleep(2)
+2024-08-01 10:37:16,442 ERROR KeyboardInterrupt
+2024-08-01 11:30:19,417 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:19,550 ERROR /usr/lib/python3/dist-packages/urllib3/connectionpool.py:732: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.org/en/latest/security.html (This warning will only appear once by default.)
+2024-08-01 11:30:19,552 ERROR   InsecureRequestWarning)
+2024-08-01 11:30:19,646 DEBUG "GET /country/es?page=1 HTTP/1.1" 200 None
+2024-08-01 11:30:19,687 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:19,944 DEBUG "GET /country/es?page=2 HTTP/1.1" 200 None
+2024-08-01 11:30:19,982 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:20,249 DEBUG "GET /country/es?page=3 HTTP/1.1" 200 None
+2024-08-01 11:30:20,288 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:20,530 DEBUG "GET /country/es?page=4 HTTP/1.1" 200 None
+2024-08-01 11:30:20,568 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:20,793 DEBUG "GET /country/es?page=5 HTTP/1.1" 200 None
+2024-08-01 11:30:20,825 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:21,040 DEBUG "GET /country/es?page=6 HTTP/1.1" 200 None
+2024-08-01 11:30:21,081 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:21,359 DEBUG "GET /country/es?page=7 HTTP/1.1" 200 None
+2024-08-01 11:30:21,394 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:21,647 DEBUG "GET /country/es?page=8 HTTP/1.1" 200 None
+2024-08-01 11:30:21,680 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:21,923 DEBUG "GET /country/es?page=9 HTTP/1.1" 200 None
+2024-08-01 11:30:21,956 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:22,214 DEBUG "GET /country/es?page=10 HTTP/1.1" 200 None
+2024-08-01 11:30:22,245 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:22,498 DEBUG "GET /country/es?page=11 HTTP/1.1" 200 None
+2024-08-01 11:30:22,531 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:22,772 DEBUG "GET /country/es?page=12 HTTP/1.1" 200 None
+2024-08-01 11:30:22,805 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:23,052 DEBUG "GET /country/es?page=13 HTTP/1.1" 200 None
+2024-08-01 11:30:23,094 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:23,317 DEBUG "GET /country/es?page=14 HTTP/1.1" 200 None
+2024-08-01 11:30:23,359 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:23,649 DEBUG "GET /country/es?page=15 HTTP/1.1" 200 None
+2024-08-01 11:30:23,682 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:23,934 DEBUG "GET /country/es?page=16 HTTP/1.1" 200 None
+2024-08-01 11:30:23,966 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:24,182 DEBUG "GET /country/es?page=17 HTTP/1.1" 200 None
+2024-08-01 11:30:24,213 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:24,449 DEBUG "GET /country/es?page=18 HTTP/1.1" 200 None
+2024-08-01 11:30:24,487 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:24,719 DEBUG "GET /country/es?page=19 HTTP/1.1" 200 None
+2024-08-01 11:30:24,756 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:25,031 DEBUG "GET /country/es?page=20 HTTP/1.1" 200 None
+2024-08-01 11:30:25,068 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:25,331 DEBUG "GET /country/es?page=21 HTTP/1.1" 200 None
+2024-08-01 11:30:25,369 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:25,631 DEBUG "GET /country/es?page=22 HTTP/1.1" 200 None
+2024-08-01 11:30:25,668 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:25,915 DEBUG "GET /country/es?page=23 HTTP/1.1" 200 None
+2024-08-01 11:30:25,957 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:26,266 DEBUG "GET /country/es?page=24 HTTP/1.1" 200 None
+2024-08-01 11:30:26,303 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:26,528 DEBUG "GET /country/es?page=25 HTTP/1.1" 200 None
+2024-08-01 11:30:26,565 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:26,766 DEBUG "GET /country/es?page=26 HTTP/1.1" 200 None
+2024-08-01 11:30:26,799 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:27,059 DEBUG "GET /country/es?page=27 HTTP/1.1" 200 None
+2024-08-01 11:30:27,293 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:27,515 DEBUG "GET /country/es?page=28 HTTP/1.1" 200 None
+2024-08-01 11:30:27,549 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:27,783 DEBUG "GET /country/es?page=29 HTTP/1.1" 200 None
+2024-08-01 11:30:27,817 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:28,021 DEBUG "GET /country/es?page=30 HTTP/1.1" 200 None
+2024-08-01 11:30:28,059 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:28,272 DEBUG "GET /country/es?page=31 HTTP/1.1" 200 None
+2024-08-01 11:30:28,304 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:28,521 DEBUG "GET /country/es?page=32 HTTP/1.1" 200 None
+2024-08-01 11:30:28,554 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:28,858 DEBUG "GET /country/es?page=33 HTTP/1.1" 200 None
+2024-08-01 11:30:28,890 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:29,139 DEBUG "GET /country/es?page=34 HTTP/1.1" 200 None
+2024-08-01 11:30:29,180 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:29,420 DEBUG "GET /country/es?page=35 HTTP/1.1" 200 None
+2024-08-01 11:30:29,453 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:29,675 DEBUG "GET /country/es?page=36 HTTP/1.1" 200 None
+2024-08-01 11:30:29,721 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:29,959 DEBUG "GET /country/es?page=37 HTTP/1.1" 200 None
+2024-08-01 11:30:30,011 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:30,261 DEBUG "GET /country/es?page=38 HTTP/1.1" 200 None
+2024-08-01 11:30:30,295 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:30,516 DEBUG "GET /country/es?page=39 HTTP/1.1" 200 None
+2024-08-01 11:30:30,551 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:30,778 DEBUG "GET /country/es?page=40 HTTP/1.1" 200 None
+2024-08-01 11:30:30,811 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:31,020 DEBUG "GET /country/es?page=41 HTTP/1.1" 200 None
+2024-08-01 11:30:31,059 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:31,282 DEBUG "GET /country/es?page=42 HTTP/1.1" 200 None
+2024-08-01 11:30:31,313 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:31,521 DEBUG "GET /country/es?page=43 HTTP/1.1" 200 None
+2024-08-01 11:30:31,556 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:31,751 DEBUG "GET /country/es?page=44 HTTP/1.1" 200 None
+2024-08-01 11:30:31,788 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:32,081 DEBUG "GET /country/es?page=45 HTTP/1.1" 200 None
+2024-08-01 11:30:32,156 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:32,396 DEBUG "GET /country/es?page=46 HTTP/1.1" 200 None
+2024-08-01 11:30:32,428 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:32,661 DEBUG "GET /country/es?page=47 HTTP/1.1" 200 None
+2024-08-01 11:30:32,695 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:32,912 DEBUG "GET /country/es?page=48 HTTP/1.1" 200 None
+2024-08-01 11:30:32,945 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:33,172 DEBUG "GET /country/es?page=49 HTTP/1.1" 200 None
+2024-08-01 11:30:33,204 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:33,456 DEBUG "GET /country/es?page=50 HTTP/1.1" 200 None
+2024-08-01 11:30:33,488 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:33,726 DEBUG "GET /country/es?page=51 HTTP/1.1" 200 None
+2024-08-01 11:30:33,763 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:33,962 DEBUG "GET /country/es?page=52 HTTP/1.1" 200 None
+2024-08-01 11:30:33,995 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:34,234 DEBUG "GET /country/es?page=53 HTTP/1.1" 200 None
+2024-08-01 11:30:34,267 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:34,481 DEBUG "GET /country/es?page=54 HTTP/1.1" 200 None
+2024-08-01 11:30:34,514 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:34,806 DEBUG "GET /country/es?page=55 HTTP/1.1" 200 None
+2024-08-01 11:30:34,839 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:35,044 DEBUG "GET /country/es?page=56 HTTP/1.1" 200 None
+2024-08-01 11:30:35,087 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:35,320 DEBUG "GET /country/es?page=57 HTTP/1.1" 200 None
+2024-08-01 11:30:35,363 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:35,600 DEBUG "GET /country/es?page=58 HTTP/1.1" 200 None
+2024-08-01 11:30:35,632 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:35,874 DEBUG "GET /country/es?page=59 HTTP/1.1" 200 None
+2024-08-01 11:30:35,907 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:36,155 DEBUG "GET /country/es?page=60 HTTP/1.1" 200 None
+2024-08-01 11:30:36,188 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:36,412 DEBUG "GET /country/es?page=61 HTTP/1.1" 200 None
+2024-08-01 11:30:36,444 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:36,674 DEBUG "GET /country/es?page=62 HTTP/1.1" 200 None
+2024-08-01 11:30:36,706 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:36,936 DEBUG "GET /country/es?page=63 HTTP/1.1" 200 None
+2024-08-01 11:30:36,969 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:37,188 DEBUG "GET /country/es?page=64 HTTP/1.1" 200 None
+2024-08-01 11:30:37,228 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:37,461 DEBUG "GET /country/es?page=65 HTTP/1.1" 200 None
+2024-08-01 11:30:37,493 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:37,698 DEBUG "GET /country/es?page=66 HTTP/1.1" 200 None
+2024-08-01 11:30:37,730 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:37,965 DEBUG "GET /country/es?page=67 HTTP/1.1" 200 None
+2024-08-01 11:30:37,998 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:38,229 DEBUG "GET /country/es?page=68 HTTP/1.1" 200 None
+2024-08-01 11:30:38,267 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:38,480 DEBUG "GET /country/es?page=69 HTTP/1.1" 200 None
+2024-08-01 11:30:38,513 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:38,709 DEBUG "GET /country/es?page=70 HTTP/1.1" 200 None
+2024-08-01 11:30:38,741 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:38,974 DEBUG "GET /country/es?page=71 HTTP/1.1" 200 None
+2024-08-01 11:30:39,007 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:39,266 DEBUG "GET /country/es?page=72 HTTP/1.1" 200 None
+2024-08-01 11:30:39,301 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:39,521 DEBUG "GET /country/es?page=73 HTTP/1.1" 200 None
+2024-08-01 11:30:39,553 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:30:39,744 DEBUG "GET /country/es?page=74 HTTP/1.1" 200 None
+2024-08-01 11:31:26,823 ERROR Traceback (most recent call last):
+2024-08-01 11:31:26,825 ERROR   File "testCardReaderLinux.py", line 826, in <module>
+2024-08-01 11:31:26,830 ERROR time.sleep(2)
+2024-08-01 11:31:26,832 ERROR KeyboardInterrupt
+2024-08-01 11:53:21,276 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:21,439 ERROR /usr/lib/python3/dist-packages/urllib3/connectionpool.py:732: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.org/en/latest/security.html (This warning will only appear once by default.)
+2024-08-01 11:53:21,441 ERROR   InsecureRequestWarning)
+2024-08-01 11:53:21,533 DEBUG "GET /country/es?page=1 HTTP/1.1" 200 None
+2024-08-01 11:53:21,575 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:21,814 DEBUG "GET /country/es?page=2 HTTP/1.1" 200 None
+2024-08-01 11:53:21,847 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:22,068 DEBUG "GET /country/es?page=3 HTTP/1.1" 200 None
+2024-08-01 11:53:22,101 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:22,309 DEBUG "GET /country/es?page=4 HTTP/1.1" 200 None
+2024-08-01 11:53:22,342 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:22,596 DEBUG "GET /country/es?page=5 HTTP/1.1" 200 None
+2024-08-01 11:53:22,629 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:22,944 DEBUG "GET /country/es?page=6 HTTP/1.1" 200 None
+2024-08-01 11:53:22,983 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:23,229 DEBUG "GET /country/es?page=7 HTTP/1.1" 200 None
+2024-08-01 11:53:23,281 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:23,516 DEBUG "GET /country/es?page=8 HTTP/1.1" 200 None
+2024-08-01 11:53:23,563 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:23,799 DEBUG "GET /country/es?page=9 HTTP/1.1" 200 None
+2024-08-01 11:53:23,831 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:24,122 DEBUG "GET /country/es?page=10 HTTP/1.1" 200 None
+2024-08-01 11:53:24,160 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:24,352 DEBUG "GET /country/es?page=11 HTTP/1.1" 200 None
+2024-08-01 11:53:24,385 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:24,580 DEBUG "GET /country/es?page=12 HTTP/1.1" 200 None
+2024-08-01 11:53:24,613 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:24,859 DEBUG "GET /country/es?page=13 HTTP/1.1" 200 None
+2024-08-01 11:53:24,892 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:25,128 DEBUG "GET /country/es?page=14 HTTP/1.1" 200 None
+2024-08-01 11:53:25,160 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:25,369 DEBUG "GET /country/es?page=15 HTTP/1.1" 200 None
+2024-08-01 11:53:25,403 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:25,659 DEBUG "GET /country/es?page=16 HTTP/1.1" 200 None
+2024-08-01 11:53:25,691 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:25,889 DEBUG "GET /country/es?page=17 HTTP/1.1" 200 None
+2024-08-01 11:53:25,923 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:26,170 DEBUG "GET /country/es?page=18 HTTP/1.1" 200 None
+2024-08-01 11:53:26,203 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:26,409 DEBUG "GET /country/es?page=19 HTTP/1.1" 200 None
+2024-08-01 11:53:26,449 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:26,658 DEBUG "GET /country/es?page=20 HTTP/1.1" 200 None
+2024-08-01 11:53:26,692 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:26,910 DEBUG "GET /country/es?page=21 HTTP/1.1" 200 None
+2024-08-01 11:53:26,943 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:27,174 DEBUG "GET /country/es?page=22 HTTP/1.1" 200 None
+2024-08-01 11:53:27,207 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:27,417 DEBUG "GET /country/es?page=23 HTTP/1.1" 200 None
+2024-08-01 11:53:27,456 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:27,691 DEBUG "GET /country/es?page=24 HTTP/1.1" 200 None
+2024-08-01 11:53:27,724 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:27,935 DEBUG "GET /country/es?page=25 HTTP/1.1" 200 None
+2024-08-01 11:53:27,968 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:28,217 DEBUG "GET /country/es?page=26 HTTP/1.1" 200 None
+2024-08-01 11:53:28,249 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:28,494 DEBUG "GET /country/es?page=27 HTTP/1.1" 200 None
+2024-08-01 11:53:28,528 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:28,715 DEBUG "GET /country/es?page=28 HTTP/1.1" 200 None
+2024-08-01 11:53:28,751 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:28,984 DEBUG "GET /country/es?page=29 HTTP/1.1" 200 None
+2024-08-01 11:53:29,016 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:29,223 DEBUG "GET /country/es?page=30 HTTP/1.1" 200 None
+2024-08-01 11:53:29,270 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:29,490 DEBUG "GET /country/es?page=31 HTTP/1.1" 200 None
+2024-08-01 11:53:29,536 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:29,739 DEBUG "GET /country/es?page=32 HTTP/1.1" 200 None
+2024-08-01 11:53:29,773 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:29,973 DEBUG "GET /country/es?page=33 HTTP/1.1" 200 None
+2024-08-01 11:53:30,006 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:30,254 DEBUG "GET /country/es?page=34 HTTP/1.1" 200 None
+2024-08-01 11:53:30,287 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:30,494 DEBUG "GET /country/es?page=35 HTTP/1.1" 200 None
+2024-08-01 11:53:30,527 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:30,730 DEBUG "GET /country/es?page=36 HTTP/1.1" 200 None
+2024-08-01 11:53:30,768 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:30,956 DEBUG "GET /country/es?page=37 HTTP/1.1" 200 None
+2024-08-01 11:53:30,989 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:31,275 DEBUG "GET /country/es?page=38 HTTP/1.1" 200 None
+2024-08-01 11:53:31,307 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:31,537 DEBUG "GET /country/es?page=39 HTTP/1.1" 200 None
+2024-08-01 11:53:31,571 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:31,959 DEBUG "GET /country/es?page=40 HTTP/1.1" 200 None
+2024-08-01 11:53:31,992 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:32,215 DEBUG "GET /country/es?page=41 HTTP/1.1" 200 None
+2024-08-01 11:53:32,248 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:32,461 DEBUG "GET /country/es?page=42 HTTP/1.1" 200 None
+2024-08-01 11:53:32,494 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:32,702 DEBUG "GET /country/es?page=43 HTTP/1.1" 200 None
+2024-08-01 11:53:32,735 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:32,931 DEBUG "GET /country/es?page=44 HTTP/1.1" 200 None
+2024-08-01 11:53:32,964 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:33,193 DEBUG "GET /country/es?page=45 HTTP/1.1" 200 None
+2024-08-01 11:53:33,226 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:33,441 DEBUG "GET /country/es?page=46 HTTP/1.1" 200 None
+2024-08-01 11:53:33,479 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:33,786 DEBUG "GET /country/es?page=47 HTTP/1.1" 200 None
+2024-08-01 11:53:33,819 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:34,018 DEBUG "GET /country/es?page=48 HTTP/1.1" 200 None
+2024-08-01 11:53:34,056 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:34,249 DEBUG "GET /country/es?page=49 HTTP/1.1" 200 None
+2024-08-01 11:53:34,283 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:34,516 DEBUG "GET /country/es?page=50 HTTP/1.1" 200 None
+2024-08-01 11:53:34,550 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:34,772 DEBUG "GET /country/es?page=51 HTTP/1.1" 200 None
+2024-08-01 11:53:34,806 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:35,027 DEBUG "GET /country/es?page=52 HTTP/1.1" 200 None
+2024-08-01 11:53:35,072 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:35,332 DEBUG "GET /country/es?page=53 HTTP/1.1" 200 None
+2024-08-01 11:53:35,372 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:35,701 DEBUG "GET /country/es?page=54 HTTP/1.1" 200 None
+2024-08-01 11:53:35,734 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:35,956 DEBUG "GET /country/es?page=55 HTTP/1.1" 200 None
+2024-08-01 11:53:35,989 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:36,200 DEBUG "GET /country/es?page=56 HTTP/1.1" 200 None
+2024-08-01 11:53:36,232 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:36,468 DEBUG "GET /country/es?page=57 HTTP/1.1" 200 None
+2024-08-01 11:53:36,503 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:36,697 DEBUG "GET /country/es?page=58 HTTP/1.1" 200 None
+2024-08-01 11:53:36,734 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:36,984 DEBUG "GET /country/es?page=59 HTTP/1.1" 200 None
+2024-08-01 11:53:37,025 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:37,244 DEBUG "GET /country/es?page=60 HTTP/1.1" 200 None
+2024-08-01 11:53:37,276 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:37,494 DEBUG "GET /country/es?page=61 HTTP/1.1" 200 None
+2024-08-01 11:53:37,527 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:37,724 DEBUG "GET /country/es?page=62 HTTP/1.1" 200 None
+2024-08-01 11:53:37,757 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:37,981 DEBUG "GET /country/es?page=63 HTTP/1.1" 200 None
+2024-08-01 11:53:38,013 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:38,223 DEBUG "GET /country/es?page=64 HTTP/1.1" 200 None
+2024-08-01 11:53:38,261 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:38,464 DEBUG "GET /country/es?page=65 HTTP/1.1" 200 None
+2024-08-01 11:53:38,497 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:38,708 DEBUG "GET /country/es?page=66 HTTP/1.1" 200 None
+2024-08-01 11:53:38,741 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:38,941 DEBUG "GET /country/es?page=67 HTTP/1.1" 200 None
+2024-08-01 11:53:38,974 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:39,170 DEBUG "GET /country/es?page=68 HTTP/1.1" 200 None
+2024-08-01 11:53:39,202 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:39,409 DEBUG "GET /country/es?page=69 HTTP/1.1" 200 None
+2024-08-01 11:53:39,442 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:39,641 DEBUG "GET /country/es?page=70 HTTP/1.1" 200 None
+2024-08-01 11:53:39,692 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:39,898 DEBUG "GET /country/es?page=71 HTTP/1.1" 200 None
+2024-08-01 11:53:39,939 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:40,160 DEBUG "GET /country/es?page=72 HTTP/1.1" 200 None
+2024-08-01 11:53:40,192 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:40,390 DEBUG "GET /country/es?page=73 HTTP/1.1" 200 None
+2024-08-01 11:53:40,422 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:53:40,646 DEBUG "GET /country/es?page=74 HTTP/1.1" 200 None
+2024-08-01 11:54:24,612 ERROR Traceback (most recent call last):
+2024-08-01 11:54:24,614 ERROR   File "testCardReaderLinux.py", line 825, in <module>
+2024-08-01 11:54:24,620 ERROR time.sleep(2)
+2024-08-01 11:54:24,623 ERROR KeyboardInterrupt
+2024-08-01 11:57:27,732 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:27,879 ERROR /usr/lib/python3/dist-packages/urllib3/connectionpool.py:732: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.org/en/latest/security.html (This warning will only appear once by default.)
+2024-08-01 11:57:27,882 ERROR   InsecureRequestWarning)
+2024-08-01 11:57:27,974 DEBUG "GET /country/es?page=1 HTTP/1.1" 200 None
+2024-08-01 11:57:28,011 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:28,219 DEBUG "GET /country/es?page=2 HTTP/1.1" 200 None
+2024-08-01 11:57:28,252 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:28,478 DEBUG "GET /country/es?page=3 HTTP/1.1" 200 None
+2024-08-01 11:57:28,511 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:28,702 DEBUG "GET /country/es?page=4 HTTP/1.1" 200 None
+2024-08-01 11:57:28,736 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:28,949 DEBUG "GET /country/es?page=5 HTTP/1.1" 200 None
+2024-08-01 11:57:28,986 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:29,193 DEBUG "GET /country/es?page=6 HTTP/1.1" 200 None
+2024-08-01 11:57:29,239 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:29,447 DEBUG "GET /country/es?page=7 HTTP/1.1" 200 None
+2024-08-01 11:57:29,498 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:30,031 DEBUG "GET /country/es?page=8 HTTP/1.1" 200 None
+2024-08-01 11:57:30,064 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:30,271 DEBUG "GET /country/es?page=9 HTTP/1.1" 200 None
+2024-08-01 11:57:30,304 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:30,506 DEBUG "GET /country/es?page=10 HTTP/1.1" 200 None
+2024-08-01 11:57:30,539 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:30,741 DEBUG "GET /country/es?page=11 HTTP/1.1" 200 None
+2024-08-01 11:57:30,779 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:31,005 DEBUG "GET /country/es?page=12 HTTP/1.1" 200 None
+2024-08-01 11:57:31,038 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:31,262 DEBUG "GET /country/es?page=13 HTTP/1.1" 200 None
+2024-08-01 11:57:31,295 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:31,478 DEBUG "GET /country/es?page=14 HTTP/1.1" 200 None
+2024-08-01 11:57:31,511 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:31,783 DEBUG "GET /country/es?page=15 HTTP/1.1" 200 None
+2024-08-01 11:57:31,817 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:32,007 DEBUG "GET /country/es?page=16 HTTP/1.1" 200 None
+2024-08-01 11:57:32,040 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:32,233 DEBUG "GET /country/es?page=17 HTTP/1.1" 200 None
+2024-08-01 11:57:32,275 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:32,500 DEBUG "GET /country/es?page=18 HTTP/1.1" 200 None
+2024-08-01 11:57:32,533 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:32,733 DEBUG "GET /country/es?page=19 HTTP/1.1" 200 None
+2024-08-01 11:57:32,765 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:32,989 DEBUG "GET /country/es?page=20 HTTP/1.1" 200 None
+2024-08-01 11:57:33,029 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:33,238 DEBUG "GET /country/es?page=21 HTTP/1.1" 200 None
+2024-08-01 11:57:33,270 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:33,499 DEBUG "GET /country/es?page=22 HTTP/1.1" 200 None
+2024-08-01 11:57:33,531 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:33,854 DEBUG "GET /country/es?page=23 HTTP/1.1" 200 None
+2024-08-01 11:57:33,886 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:34,208 DEBUG "GET /country/es?page=24 HTTP/1.1" 200 None
+2024-08-01 11:57:34,240 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:34,554 DEBUG "GET /country/es?page=25 HTTP/1.1" 200 None
+2024-08-01 11:57:34,585 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:34,821 DEBUG "GET /country/es?page=26 HTTP/1.1" 200 None
+2024-08-01 11:57:34,854 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:35,155 DEBUG "GET /country/es?page=27 HTTP/1.1" 200 None
+2024-08-01 11:57:35,198 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:35,513 DEBUG "GET /country/es?page=28 HTTP/1.1" 200 None
+2024-08-01 11:57:35,561 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:35,869 DEBUG "GET /country/es?page=29 HTTP/1.1" 200 None
+2024-08-01 11:57:35,904 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:36,108 DEBUG "GET /country/es?page=30 HTTP/1.1" 200 None
+2024-08-01 11:57:36,142 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:36,370 DEBUG "GET /country/es?page=31 HTTP/1.1" 200 None
+2024-08-01 11:57:36,402 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:36,641 DEBUG "GET /country/es?page=32 HTTP/1.1" 200 None
+2024-08-01 11:57:36,672 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:36,931 DEBUG "GET /country/es?page=33 HTTP/1.1" 200 None
+2024-08-01 11:57:36,963 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:37,173 DEBUG "GET /country/es?page=34 HTTP/1.1" 200 None
+2024-08-01 11:57:37,204 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:37,439 DEBUG "GET /country/es?page=35 HTTP/1.1" 200 None
+2024-08-01 11:57:37,471 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:37,698 DEBUG "GET /country/es?page=36 HTTP/1.1" 200 None
+2024-08-01 11:57:37,729 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:37,959 DEBUG "GET /country/es?page=37 HTTP/1.1" 200 None
+2024-08-01 11:57:37,990 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:38,183 DEBUG "GET /country/es?page=38 HTTP/1.1" 200 None
+2024-08-01 11:57:38,215 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:38,500 DEBUG "GET /country/es?page=39 HTTP/1.1" 200 None
+2024-08-01 11:57:38,532 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:38,817 DEBUG "GET /country/es?page=40 HTTP/1.1" 200 None
+2024-08-01 11:57:38,849 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:39,061 DEBUG "GET /country/es?page=41 HTTP/1.1" 200 None
+2024-08-01 11:57:39,093 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:39,292 DEBUG "GET /country/es?page=42 HTTP/1.1" 200 None
+2024-08-01 11:57:39,324 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:39,532 DEBUG "GET /country/es?page=43 HTTP/1.1" 200 None
+2024-08-01 11:57:39,566 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:39,807 DEBUG "GET /country/es?page=44 HTTP/1.1" 200 None
+2024-08-01 11:57:39,839 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:40,033 DEBUG "GET /country/es?page=45 HTTP/1.1" 200 None
+2024-08-01 11:57:40,074 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:40,259 DEBUG "GET /country/es?page=46 HTTP/1.1" 200 None
+2024-08-01 11:57:40,291 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:40,491 DEBUG "GET /country/es?page=47 HTTP/1.1" 200 None
+2024-08-01 11:57:40,523 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:40,751 DEBUG "GET /country/es?page=48 HTTP/1.1" 200 None
+2024-08-01 11:57:40,784 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:40,993 DEBUG "GET /country/es?page=49 HTTP/1.1" 200 None
+2024-08-01 11:57:41,026 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:41,236 DEBUG "GET /country/es?page=50 HTTP/1.1" 200 None
+2024-08-01 11:57:41,288 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:41,497 DEBUG "GET /country/es?page=51 HTTP/1.1" 200 None
+2024-08-01 11:57:41,534 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:41,735 DEBUG "GET /country/es?page=52 HTTP/1.1" 200 None
+2024-08-01 11:57:41,777 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:42,007 DEBUG "GET /country/es?page=53 HTTP/1.1" 200 None
+2024-08-01 11:57:42,042 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:42,280 DEBUG "GET /country/es?page=54 HTTP/1.1" 200 None
+2024-08-01 11:57:42,315 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:42,509 DEBUG "GET /country/es?page=55 HTTP/1.1" 200 None
+2024-08-01 11:57:42,542 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:42,768 DEBUG "GET /country/es?page=56 HTTP/1.1" 200 None
+2024-08-01 11:57:42,802 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:43,026 DEBUG "GET /country/es?page=57 HTTP/1.1" 200 None
+2024-08-01 11:57:43,068 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:43,256 DEBUG "GET /country/es?page=58 HTTP/1.1" 200 None
+2024-08-01 11:57:43,289 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:43,513 DEBUG "GET /country/es?page=59 HTTP/1.1" 200 None
+2024-08-01 11:57:43,547 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:43,736 DEBUG "GET /country/es?page=60 HTTP/1.1" 200 None
+2024-08-01 11:57:43,769 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:43,959 DEBUG "GET /country/es?page=61 HTTP/1.1" 200 None
+2024-08-01 11:57:43,993 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:44,198 DEBUG "GET /country/es?page=62 HTTP/1.1" 200 None
+2024-08-01 11:57:44,231 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:44,459 DEBUG "GET /country/es?page=63 HTTP/1.1" 200 None
+2024-08-01 11:57:44,493 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:44,720 DEBUG "GET /country/es?page=64 HTTP/1.1" 200 None
+2024-08-01 11:57:44,753 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:44,982 DEBUG "GET /country/es?page=65 HTTP/1.1" 200 None
+2024-08-01 11:57:45,015 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:45,244 DEBUG "GET /country/es?page=66 HTTP/1.1" 200 None
+2024-08-01 11:57:45,277 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:45,493 DEBUG "GET /country/es?page=67 HTTP/1.1" 200 None
+2024-08-01 11:57:45,526 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:45,737 DEBUG "GET /country/es?page=68 HTTP/1.1" 200 None
+2024-08-01 11:57:45,775 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:46,001 DEBUG "GET /country/es?page=69 HTTP/1.1" 200 None
+2024-08-01 11:57:46,035 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:46,241 DEBUG "GET /country/es?page=70 HTTP/1.1" 200 None
+2024-08-01 11:57:46,274 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:46,482 DEBUG "GET /country/es?page=71 HTTP/1.1" 200 None
+2024-08-01 11:57:46,516 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:46,746 DEBUG "GET /country/es?page=72 HTTP/1.1" 200 None
+2024-08-01 11:57:46,779 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:47,002 DEBUG "GET /country/es?page=73 HTTP/1.1" 200 None
+2024-08-01 11:57:47,036 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:57:47,345 DEBUG "GET /country/es?page=74 HTTP/1.1" 200 None
+2024-08-01 11:58:15,939 ERROR Traceback (most recent call last):
+2024-08-01 11:58:15,941 ERROR   File "testCardReaderLinux.py", line 810, in <module>
+2024-08-01 11:58:15,946 ERROR if cardIsInside():
+2024-08-01 11:58:15,949 ERROR   File "testCardReaderLinux.py", line 192, in cardIsInside
+2024-08-01 11:58:15,952 ERROR response = sendCommand(cm.ICRW_COMMAND)
+2024-08-01 11:58:15,955 ERROR   File "testCardReaderLinux.py", line 104, in sendCommand
+2024-08-01 11:58:15,958 ERROR if response[0] == cm.HANDSHAKE_CODE : response = b'' ; response = recursiveByteGet(response)
+2024-08-01 11:58:15,961 ERROR   File "testCardReaderLinux.py", line 65, in recursiveByteGet
+2024-08-01 11:58:15,965 ERROR new_risponse = crt_288.read(cm.READ,64).tobytes()
+2024-08-01 11:58:15,967 ERROR   File "/usr/local/lib/python3.4/dist-packages/usb/core.py", line 988, in read
+2024-08-01 11:58:15,979 ERROR self.__get_timeout(timeout))
+2024-08-01 11:58:15,981 ERROR   File "/usr/local/lib/python3.4/dist-packages/usb/backend/libusb1.py", line 851, in intr_read
+2024-08-01 11:58:15,989 ERROR timeout)
+2024-08-01 11:58:15,992 ERROR   File "/usr/local/lib/python3.4/dist-packages/usb/backend/libusb1.py", line 933, in __read
+2024-08-01 11:58:15,997 ERROR timeout)
+2024-08-01 11:58:16,000 ERROR KeyboardInterrupt
+2024-08-01 11:59:04,820 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:04,944 ERROR /usr/lib/python3/dist-packages/urllib3/connectionpool.py:732: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.org/en/latest/security.html (This warning will only appear once by default.)
+2024-08-01 11:59:04,945 ERROR   InsecureRequestWarning)
+2024-08-01 11:59:05,030 DEBUG "GET /country/es?page=1 HTTP/1.1" 200 None
+2024-08-01 11:59:05,074 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:05,278 DEBUG "GET /country/es?page=2 HTTP/1.1" 200 None
+2024-08-01 11:59:05,322 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:05,557 DEBUG "GET /country/es?page=3 HTTP/1.1" 200 None
+2024-08-01 11:59:05,589 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:05,810 DEBUG "GET /country/es?page=4 HTTP/1.1" 200 None
+2024-08-01 11:59:05,860 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:06,102 DEBUG "GET /country/es?page=5 HTTP/1.1" 200 None
+2024-08-01 11:59:06,134 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:06,337 DEBUG "GET /country/es?page=6 HTTP/1.1" 200 None
+2024-08-01 11:59:06,369 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:06,571 DEBUG "GET /country/es?page=7 HTTP/1.1" 200 None
+2024-08-01 11:59:06,604 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:06,802 DEBUG "GET /country/es?page=8 HTTP/1.1" 200 None
+2024-08-01 11:59:06,835 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:07,059 DEBUG "GET /country/es?page=9 HTTP/1.1" 200 None
+2024-08-01 11:59:07,091 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:07,323 DEBUG "GET /country/es?page=10 HTTP/1.1" 200 None
+2024-08-01 11:59:07,360 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:07,594 DEBUG "GET /country/es?page=11 HTTP/1.1" 200 None
+2024-08-01 11:59:07,626 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:07,862 DEBUG "GET /country/es?page=12 HTTP/1.1" 200 None
+2024-08-01 11:59:07,894 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:08,111 DEBUG "GET /country/es?page=13 HTTP/1.1" 200 None
+2024-08-01 11:59:08,143 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:08,355 DEBUG "GET /country/es?page=14 HTTP/1.1" 200 None
+2024-08-01 11:59:08,387 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:08,623 DEBUG "GET /country/es?page=15 HTTP/1.1" 200 None
+2024-08-01 11:59:08,656 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:08,859 DEBUG "GET /country/es?page=16 HTTP/1.1" 200 None
+2024-08-01 11:59:08,891 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:09,120 DEBUG "GET /country/es?page=17 HTTP/1.1" 200 None
+2024-08-01 11:59:09,157 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:09,348 DEBUG "GET /country/es?page=18 HTTP/1.1" 200 None
+2024-08-01 11:59:09,380 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:09,603 DEBUG "GET /country/es?page=19 HTTP/1.1" 200 None
+2024-08-01 11:59:09,635 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:09,840 DEBUG "GET /country/es?page=20 HTTP/1.1" 200 None
+2024-08-01 11:59:09,874 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:10,176 DEBUG "GET /country/es?page=21 HTTP/1.1" 200 None
+2024-08-01 11:59:10,208 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:10,451 DEBUG "GET /country/es?page=22 HTTP/1.1" 200 None
+2024-08-01 11:59:10,483 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:10,708 DEBUG "GET /country/es?page=23 HTTP/1.1" 200 None
+2024-08-01 11:59:10,740 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:10,991 DEBUG "GET /country/es?page=24 HTTP/1.1" 200 None
+2024-08-01 11:59:11,027 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:11,262 DEBUG "GET /country/es?page=25 HTTP/1.1" 200 None
+2024-08-01 11:59:11,304 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:11,516 DEBUG "GET /country/es?page=26 HTTP/1.1" 200 None
+2024-08-01 11:59:11,559 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:11,769 DEBUG "GET /country/es?page=27 HTTP/1.1" 200 None
+2024-08-01 11:59:11,802 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:12,007 DEBUG "GET /country/es?page=28 HTTP/1.1" 200 None
+2024-08-01 11:59:12,042 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:12,277 DEBUG "GET /country/es?page=29 HTTP/1.1" 200 None
+2024-08-01 11:59:12,309 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:12,608 DEBUG "GET /country/es?page=30 HTTP/1.1" 200 None
+2024-08-01 11:59:12,640 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:12,843 DEBUG "GET /country/es?page=31 HTTP/1.1" 200 None
+2024-08-01 11:59:12,876 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:13,087 DEBUG "GET /country/es?page=32 HTTP/1.1" 200 None
+2024-08-01 11:59:13,119 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:13,349 DEBUG "GET /country/es?page=33 HTTP/1.1" 200 None
+2024-08-01 11:59:13,385 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:13,598 DEBUG "GET /country/es?page=34 HTTP/1.1" 200 None
+2024-08-01 11:59:13,630 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:13,857 DEBUG "GET /country/es?page=35 HTTP/1.1" 200 None
+2024-08-01 11:59:13,889 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:14,116 DEBUG "GET /country/es?page=36 HTTP/1.1" 200 None
+2024-08-01 11:59:14,147 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:14,350 DEBUG "GET /country/es?page=37 HTTP/1.1" 200 None
+2024-08-01 11:59:14,382 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:14,655 DEBUG "GET /country/es?page=38 HTTP/1.1" 200 None
+2024-08-01 11:59:14,693 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:14,884 DEBUG "GET /country/es?page=39 HTTP/1.1" 200 None
+2024-08-01 11:59:14,917 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:15,147 DEBUG "GET /country/es?page=40 HTTP/1.1" 200 None
+2024-08-01 11:59:15,184 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:15,434 DEBUG "GET /country/es?page=41 HTTP/1.1" 200 None
+2024-08-01 11:59:15,471 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:15,654 DEBUG "GET /country/es?page=42 HTTP/1.1" 200 None
+2024-08-01 11:59:15,687 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:15,898 DEBUG "GET /country/es?page=43 HTTP/1.1" 200 None
+2024-08-01 11:59:15,930 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:16,138 DEBUG "GET /country/es?page=44 HTTP/1.1" 200 None
+2024-08-01 11:59:16,177 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:16,405 DEBUG "GET /country/es?page=45 HTTP/1.1" 200 None
+2024-08-01 11:59:16,437 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:16,648 DEBUG "GET /country/es?page=46 HTTP/1.1" 200 None
+2024-08-01 11:59:16,686 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:16,920 DEBUG "GET /country/es?page=47 HTTP/1.1" 200 None
+2024-08-01 11:59:16,958 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:17,158 DEBUG "GET /country/es?page=48 HTTP/1.1" 200 None
+2024-08-01 11:59:17,202 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:17,418 DEBUG "GET /country/es?page=49 HTTP/1.1" 200 None
+2024-08-01 11:59:17,452 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:17,663 DEBUG "GET /country/es?page=50 HTTP/1.1" 200 None
+2024-08-01 11:59:17,695 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:17,914 DEBUG "GET /country/es?page=51 HTTP/1.1" 200 None
+2024-08-01 11:59:17,945 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:18,147 DEBUG "GET /country/es?page=52 HTTP/1.1" 200 None
+2024-08-01 11:59:18,184 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:18,408 DEBUG "GET /country/es?page=53 HTTP/1.1" 200 None
+2024-08-01 11:59:18,441 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:18,670 DEBUG "GET /country/es?page=54 HTTP/1.1" 200 None
+2024-08-01 11:59:18,702 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:18,997 DEBUG "GET /country/es?page=55 HTTP/1.1" 200 None
+2024-08-01 11:59:19,030 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:19,252 DEBUG "GET /country/es?page=56 HTTP/1.1" 200 None
+2024-08-01 11:59:19,284 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:19,494 DEBUG "GET /country/es?page=57 HTTP/1.1" 200 None
+2024-08-01 11:59:19,528 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:19,751 DEBUG "GET /country/es?page=58 HTTP/1.1" 200 None
+2024-08-01 11:59:19,782 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:20,018 DEBUG "GET /country/es?page=59 HTTP/1.1" 200 None
+2024-08-01 11:59:20,051 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:20,264 DEBUG "GET /country/es?page=60 HTTP/1.1" 200 None
+2024-08-01 11:59:20,295 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:20,518 DEBUG "GET /country/es?page=61 HTTP/1.1" 200 None
+2024-08-01 11:59:20,557 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:20,763 DEBUG "GET /country/es?page=62 HTTP/1.1" 200 None
+2024-08-01 11:59:20,795 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:20,994 DEBUG "GET /country/es?page=63 HTTP/1.1" 200 None
+2024-08-01 11:59:21,027 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:21,249 DEBUG "GET /country/es?page=64 HTTP/1.1" 200 None
+2024-08-01 11:59:21,281 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:21,502 DEBUG "GET /country/es?page=65 HTTP/1.1" 200 None
+2024-08-01 11:59:21,534 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:21,801 DEBUG "GET /country/es?page=66 HTTP/1.1" 200 None
+2024-08-01 11:59:21,833 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:22,059 DEBUG "GET /country/es?page=67 HTTP/1.1" 200 None
+2024-08-01 11:59:22,091 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:22,308 DEBUG "GET /country/es?page=68 HTTP/1.1" 200 None
+2024-08-01 11:59:22,339 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:22,542 DEBUG "GET /country/es?page=69 HTTP/1.1" 200 None
+2024-08-01 11:59:22,574 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:22,782 DEBUG "GET /country/es?page=70 HTTP/1.1" 200 None
+2024-08-01 11:59:22,813 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:23,015 DEBUG "GET /country/es?page=71 HTTP/1.1" 200 None
+2024-08-01 11:59:23,053 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:23,299 DEBUG "GET /country/es?page=72 HTTP/1.1" 200 None
+2024-08-01 11:59:23,342 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:23,575 DEBUG "GET /country/es?page=73 HTTP/1.1" 200 None
+2024-08-01 11:59:23,609 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 11:59:23,846 DEBUG "GET /country/es?page=74 HTTP/1.1" 200 None
+2024-08-01 11:59:47,793 ERROR Traceback (most recent call last):
+2024-08-01 11:59:47,795 ERROR   File "testCardReaderLinux.py", line 818, in <module>
+2024-08-01 11:59:47,800 ERROR card.endingUnlocking()
+2024-08-01 11:59:47,803 ERROR   File "testCardReaderLinux.py", line 789, in endingUnlocking
+2024-08-01 11:59:47,810 ERROR sendCommand(cm.OPEN_COMMAND)
+2024-08-01 11:59:47,812 ERROR   File "testCardReaderLinux.py", line 85, in sendCommand
+2024-08-01 11:59:47,816 ERROR time.sleep(0.2)
+2024-08-01 11:59:47,818 ERROR KeyboardInterrupt
+2024-08-01 12:02:11,366 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:11,525 ERROR /usr/lib/python3/dist-packages/urllib3/connectionpool.py:732: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.org/en/latest/security.html (This warning will only appear once by default.)
+2024-08-01 12:02:11,528 ERROR   InsecureRequestWarning)
+2024-08-01 12:02:11,620 DEBUG "GET /country/es?page=1 HTTP/1.1" 200 None
+2024-08-01 12:02:11,658 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:11,895 DEBUG "GET /country/es?page=2 HTTP/1.1" 200 None
+2024-08-01 12:02:11,929 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:12,126 DEBUG "GET /country/es?page=3 HTTP/1.1" 200 None
+2024-08-01 12:02:12,164 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:12,388 DEBUG "GET /country/es?page=4 HTTP/1.1" 200 None
+2024-08-01 12:02:12,421 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:12,652 DEBUG "GET /country/es?page=5 HTTP/1.1" 200 None
+2024-08-01 12:02:12,684 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:12,897 DEBUG "GET /country/es?page=6 HTTP/1.1" 200 None
+2024-08-01 12:02:12,930 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:13,164 DEBUG "GET /country/es?page=7 HTTP/1.1" 200 None
+2024-08-01 12:02:13,198 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:13,431 DEBUG "GET /country/es?page=8 HTTP/1.1" 200 None
+2024-08-01 12:02:13,463 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:13,697 DEBUG "GET /country/es?page=9 HTTP/1.1" 200 None
+2024-08-01 12:02:13,730 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:13,981 DEBUG "GET /country/es?page=10 HTTP/1.1" 200 None
+2024-08-01 12:02:14,013 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:14,259 DEBUG "GET /country/es?page=11 HTTP/1.1" 200 None
+2024-08-01 12:02:14,291 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:14,522 DEBUG "GET /country/es?page=12 HTTP/1.1" 200 None
+2024-08-01 12:02:14,562 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:14,781 DEBUG "GET /country/es?page=13 HTTP/1.1" 200 None
+2024-08-01 12:02:14,814 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:15,055 DEBUG "GET /country/es?page=14 HTTP/1.1" 200 None
+2024-08-01 12:02:15,089 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:15,355 DEBUG "GET /country/es?page=15 HTTP/1.1" 200 None
+2024-08-01 12:02:15,387 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:15,615 DEBUG "GET /country/es?page=16 HTTP/1.1" 200 None
+2024-08-01 12:02:15,648 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:15,922 DEBUG "GET /country/es?page=17 HTTP/1.1" 200 None
+2024-08-01 12:02:15,955 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:16,241 DEBUG "GET /country/es?page=18 HTTP/1.1" 200 None
+2024-08-01 12:02:16,273 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:16,481 DEBUG "GET /country/es?page=19 HTTP/1.1" 200 None
+2024-08-01 12:02:16,514 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:16,841 DEBUG "GET /country/es?page=20 HTTP/1.1" 200 None
+2024-08-01 12:02:16,874 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:17,112 DEBUG "GET /country/es?page=21 HTTP/1.1" 200 None
+2024-08-01 12:02:17,153 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:17,403 DEBUG "GET /country/es?page=22 HTTP/1.1" 200 None
+2024-08-01 12:02:17,442 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:17,691 DEBUG "GET /country/es?page=23 HTTP/1.1" 200 None
+2024-08-01 12:02:17,724 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:17,964 DEBUG "GET /country/es?page=24 HTTP/1.1" 200 None
+2024-08-01 12:02:17,996 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:18,218 DEBUG "GET /country/es?page=25 HTTP/1.1" 200 None
+2024-08-01 12:02:18,251 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:18,458 DEBUG "GET /country/es?page=26 HTTP/1.1" 200 None
+2024-08-01 12:02:18,490 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:18,698 DEBUG "GET /country/es?page=27 HTTP/1.1" 200 None
+2024-08-01 12:02:18,730 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:18,932 DEBUG "GET /country/es?page=28 HTTP/1.1" 200 None
+2024-08-01 12:02:18,977 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:19,213 DEBUG "GET /country/es?page=29 HTTP/1.1" 200 None
+2024-08-01 12:02:19,245 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:19,453 DEBUG "GET /country/es?page=30 HTTP/1.1" 200 None
+2024-08-01 12:02:19,484 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:19,699 DEBUG "GET /country/es?page=31 HTTP/1.1" 200 None
+2024-08-01 12:02:19,731 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:19,959 DEBUG "GET /country/es?page=32 HTTP/1.1" 200 None
+2024-08-01 12:02:19,990 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:20,231 DEBUG "GET /country/es?page=33 HTTP/1.1" 200 None
+2024-08-01 12:02:20,268 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:20,493 DEBUG "GET /country/es?page=34 HTTP/1.1" 200 None
+2024-08-01 12:02:20,524 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:20,753 DEBUG "GET /country/es?page=35 HTTP/1.1" 200 None
+2024-08-01 12:02:20,785 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:21,014 DEBUG "GET /country/es?page=36 HTTP/1.1" 200 None
+2024-08-01 12:02:21,048 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:21,292 DEBUG "GET /country/es?page=37 HTTP/1.1" 200 None
+2024-08-01 12:02:21,324 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:21,562 DEBUG "GET /country/es?page=38 HTTP/1.1" 200 None
+2024-08-01 12:02:21,594 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:21,799 DEBUG "GET /country/es?page=39 HTTP/1.1" 200 None
+2024-08-01 12:02:21,831 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:22,033 DEBUG "GET /country/es?page=40 HTTP/1.1" 200 None
+2024-08-01 12:02:22,072 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:22,278 DEBUG "GET /country/es?page=41 HTTP/1.1" 200 None
+2024-08-01 12:02:22,310 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:22,508 DEBUG "GET /country/es?page=42 HTTP/1.1" 200 None
+2024-08-01 12:02:22,540 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:22,778 DEBUG "GET /country/es?page=43 HTTP/1.1" 200 None
+2024-08-01 12:02:22,809 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:23,036 DEBUG "GET /country/es?page=44 HTTP/1.1" 200 None
+2024-08-01 12:02:23,078 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:23,302 DEBUG "GET /country/es?page=45 HTTP/1.1" 200 None
+2024-08-01 12:02:23,343 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:23,579 DEBUG "GET /country/es?page=46 HTTP/1.1" 200 None
+2024-08-01 12:02:23,613 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:23,920 DEBUG "GET /country/es?page=47 HTTP/1.1" 200 None
+2024-08-01 12:02:23,952 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:24,226 DEBUG "GET /country/es?page=48 HTTP/1.1" 200 None
+2024-08-01 12:02:24,268 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:24,467 DEBUG "GET /country/es?page=49 HTTP/1.1" 200 None
+2024-08-01 12:02:24,499 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:24,702 DEBUG "GET /country/es?page=50 HTTP/1.1" 200 None
+2024-08-01 12:02:24,734 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:24,958 DEBUG "GET /country/es?page=51 HTTP/1.1" 200 None
+2024-08-01 12:02:24,990 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:25,232 DEBUG "GET /country/es?page=52 HTTP/1.1" 200 None
+2024-08-01 12:02:25,264 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:25,482 DEBUG "GET /country/es?page=53 HTTP/1.1" 200 None
+2024-08-01 12:02:25,515 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:25,758 DEBUG "GET /country/es?page=54 HTTP/1.1" 200 None
+2024-08-01 12:02:25,791 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:26,017 DEBUG "GET /country/es?page=55 HTTP/1.1" 200 None
+2024-08-01 12:02:26,055 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:26,268 DEBUG "GET /country/es?page=56 HTTP/1.1" 200 None
+2024-08-01 12:02:26,301 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:26,521 DEBUG "GET /country/es?page=57 HTTP/1.1" 200 None
+2024-08-01 12:02:26,562 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:26,792 DEBUG "GET /country/es?page=58 HTTP/1.1" 200 None
+2024-08-01 12:02:26,824 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:27,057 DEBUG "GET /country/es?page=59 HTTP/1.1" 200 None
+2024-08-01 12:02:27,089 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:27,383 DEBUG "GET /country/es?page=60 HTTP/1.1" 200 None
+2024-08-01 12:02:27,415 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:27,650 DEBUG "GET /country/es?page=61 HTTP/1.1" 200 None
+2024-08-01 12:02:27,682 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:27,903 DEBUG "GET /country/es?page=62 HTTP/1.1" 200 None
+2024-08-01 12:02:27,936 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:28,141 DEBUG "GET /country/es?page=63 HTTP/1.1" 200 None
+2024-08-01 12:02:28,173 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:28,399 DEBUG "GET /country/es?page=64 HTTP/1.1" 200 None
+2024-08-01 12:02:28,431 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:28,641 DEBUG "GET /country/es?page=65 HTTP/1.1" 200 None
+2024-08-01 12:02:28,679 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:28,869 DEBUG "GET /country/es?page=66 HTTP/1.1" 200 None
+2024-08-01 12:02:28,902 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:29,152 DEBUG "GET /country/es?page=67 HTTP/1.1" 200 None
+2024-08-01 12:02:29,195 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:29,515 DEBUG "GET /country/es?page=68 HTTP/1.1" 200 None
+2024-08-01 12:02:29,549 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:29,782 DEBUG "GET /country/es?page=69 HTTP/1.1" 200 None
+2024-08-01 12:02:29,821 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:30,025 DEBUG "GET /country/es?page=70 HTTP/1.1" 200 None
+2024-08-01 12:02:30,057 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:30,302 DEBUG "GET /country/es?page=71 HTTP/1.1" 200 None
+2024-08-01 12:02:30,335 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:30,569 DEBUG "GET /country/es?page=72 HTTP/1.1" 200 None
+2024-08-01 12:02:30,603 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:30,819 DEBUG "GET /country/es?page=73 HTTP/1.1" 200 None
+2024-08-01 12:02:30,853 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:02:31,114 DEBUG "GET /country/es?page=74 HTTP/1.1" 200 None
+2024-08-01 12:02:51,965 ERROR Traceback (most recent call last):
+2024-08-01 12:02:51,967 ERROR   File "testCardReaderLinux.py", line 818, in <module>
+2024-08-01 12:02:51,972 ERROR card.endingUnlocking()
+2024-08-01 12:02:51,974 ERROR   File "testCardReaderLinux.py", line 789, in endingUnlocking
+2024-08-01 12:02:51,978 ERROR sendCommand(cm.OPEN_COMMAND)
+2024-08-01 12:02:51,980 ERROR   File "testCardReaderLinux.py", line 85, in sendCommand
+2024-08-01 12:02:51,983 ERROR time.sleep(0.2)
+2024-08-01 12:02:51,985 ERROR KeyboardInterrupt
+2024-08-01 12:04:44,253 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:44,405 ERROR /usr/lib/python3/dist-packages/urllib3/connectionpool.py:732: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.org/en/latest/security.html (This warning will only appear once by default.)
+2024-08-01 12:04:44,407 ERROR   InsecureRequestWarning)
+2024-08-01 12:04:44,491 DEBUG "GET /country/es?page=1 HTTP/1.1" 200 None
+2024-08-01 12:04:44,528 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:44,773 DEBUG "GET /country/es?page=2 HTTP/1.1" 200 None
+2024-08-01 12:04:44,806 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:45,048 DEBUG "GET /country/es?page=3 HTTP/1.1" 200 None
+2024-08-01 12:04:45,082 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:45,314 DEBUG "GET /country/es?page=4 HTTP/1.1" 200 None
+2024-08-01 12:04:45,359 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:45,595 DEBUG "GET /country/es?page=5 HTTP/1.1" 200 None
+2024-08-01 12:04:45,628 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:45,842 DEBUG "GET /country/es?page=6 HTTP/1.1" 200 None
+2024-08-01 12:04:45,875 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:46,131 DEBUG "GET /country/es?page=7 HTTP/1.1" 200 None
+2024-08-01 12:04:46,166 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:46,395 DEBUG "GET /country/es?page=8 HTTP/1.1" 200 None
+2024-08-01 12:04:46,428 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:46,644 DEBUG "GET /country/es?page=9 HTTP/1.1" 200 None
+2024-08-01 12:04:46,683 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:46,864 DEBUG "GET /country/es?page=10 HTTP/1.1" 200 None
+2024-08-01 12:04:46,897 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:47,135 DEBUG "GET /country/es?page=11 HTTP/1.1" 200 None
+2024-08-01 12:04:47,180 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:47,419 DEBUG "GET /country/es?page=12 HTTP/1.1" 200 None
+2024-08-01 12:04:47,457 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:47,679 DEBUG "GET /country/es?page=13 HTTP/1.1" 200 None
+2024-08-01 12:04:47,711 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:47,934 DEBUG "GET /country/es?page=14 HTTP/1.1" 200 None
+2024-08-01 12:04:47,967 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:48,198 DEBUG "GET /country/es?page=15 HTTP/1.1" 200 None
+2024-08-01 12:04:48,231 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:48,445 DEBUG "GET /country/es?page=16 HTTP/1.1" 200 None
+2024-08-01 12:04:48,482 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:48,710 DEBUG "GET /country/es?page=17 HTTP/1.1" 200 None
+2024-08-01 12:04:48,743 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:48,987 DEBUG "GET /country/es?page=18 HTTP/1.1" 200 None
+2024-08-01 12:04:49,019 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:49,254 DEBUG "GET /country/es?page=19 HTTP/1.1" 200 None
+2024-08-01 12:04:49,287 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:49,536 DEBUG "GET /country/es?page=20 HTTP/1.1" 200 None
+2024-08-01 12:04:49,569 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:49,777 DEBUG "GET /country/es?page=21 HTTP/1.1" 200 None
+2024-08-01 12:04:49,810 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:50,062 DEBUG "GET /country/es?page=22 HTTP/1.1" 200 None
+2024-08-01 12:04:50,095 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:50,344 DEBUG "GET /country/es?page=23 HTTP/1.1" 200 None
+2024-08-01 12:04:50,382 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:50,582 DEBUG "GET /country/es?page=24 HTTP/1.1" 200 None
+2024-08-01 12:04:50,615 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:50,832 DEBUG "GET /country/es?page=25 HTTP/1.1" 200 None
+2024-08-01 12:04:50,873 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:51,113 DEBUG "GET /country/es?page=26 HTTP/1.1" 200 None
+2024-08-01 12:04:51,146 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:51,390 DEBUG "GET /country/es?page=27 HTTP/1.1" 200 None
+2024-08-01 12:04:51,423 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:51,724 DEBUG "GET /country/es?page=28 HTTP/1.1" 200 None
+2024-08-01 12:04:51,763 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:51,987 DEBUG "GET /country/es?page=29 HTTP/1.1" 200 None
+2024-08-01 12:04:52,020 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:52,247 DEBUG "GET /country/es?page=30 HTTP/1.1" 200 None
+2024-08-01 12:04:52,280 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:52,502 DEBUG "GET /country/es?page=31 HTTP/1.1" 200 None
+2024-08-01 12:04:52,534 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:52,755 DEBUG "GET /country/es?page=32 HTTP/1.1" 200 None
+2024-08-01 12:04:52,786 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:52,999 DEBUG "GET /country/es?page=33 HTTP/1.1" 200 None
+2024-08-01 12:04:53,038 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:53,248 DEBUG "GET /country/es?page=34 HTTP/1.1" 200 None
+2024-08-01 12:04:53,295 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:53,506 DEBUG "GET /country/es?page=35 HTTP/1.1" 200 None
+2024-08-01 12:04:53,539 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:53,805 DEBUG "GET /country/es?page=36 HTTP/1.1" 200 None
+2024-08-01 12:04:53,838 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:54,066 DEBUG "GET /country/es?page=37 HTTP/1.1" 200 None
+2024-08-01 12:04:54,101 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:54,338 DEBUG "GET /country/es?page=38 HTTP/1.1" 200 None
+2024-08-01 12:04:54,372 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:54,587 DEBUG "GET /country/es?page=39 HTTP/1.1" 200 None
+2024-08-01 12:04:54,621 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:54,852 DEBUG "GET /country/es?page=40 HTTP/1.1" 200 None
+2024-08-01 12:04:54,887 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:55,111 DEBUG "GET /country/es?page=41 HTTP/1.1" 200 None
+2024-08-01 12:04:55,144 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:55,360 DEBUG "GET /country/es?page=42 HTTP/1.1" 200 None
+2024-08-01 12:04:55,396 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:55,629 DEBUG "GET /country/es?page=43 HTTP/1.1" 200 None
+2024-08-01 12:04:55,666 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:55,902 DEBUG "GET /country/es?page=44 HTTP/1.1" 200 None
+2024-08-01 12:04:55,933 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:56,145 DEBUG "GET /country/es?page=45 HTTP/1.1" 200 None
+2024-08-01 12:04:56,178 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:56,424 DEBUG "GET /country/es?page=46 HTTP/1.1" 200 None
+2024-08-01 12:04:56,456 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:56,687 DEBUG "GET /country/es?page=47 HTTP/1.1" 200 None
+2024-08-01 12:04:56,719 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:56,930 DEBUG "GET /country/es?page=48 HTTP/1.1" 200 None
+2024-08-01 12:04:56,962 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:57,168 DEBUG "GET /country/es?page=49 HTTP/1.1" 200 None
+2024-08-01 12:04:57,199 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:57,432 DEBUG "GET /country/es?page=50 HTTP/1.1" 200 None
+2024-08-01 12:04:57,469 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:57,663 DEBUG "GET /country/es?page=51 HTTP/1.1" 200 None
+2024-08-01 12:04:57,696 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:57,934 DEBUG "GET /country/es?page=52 HTTP/1.1" 200 None
+2024-08-01 12:04:57,966 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:58,190 DEBUG "GET /country/es?page=53 HTTP/1.1" 200 None
+2024-08-01 12:04:58,222 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:58,450 DEBUG "GET /country/es?page=54 HTTP/1.1" 200 None
+2024-08-01 12:04:58,482 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:58,716 DEBUG "GET /country/es?page=55 HTTP/1.1" 200 None
+2024-08-01 12:04:58,748 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:58,959 DEBUG "GET /country/es?page=56 HTTP/1.1" 200 None
+2024-08-01 12:04:58,991 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:59,218 DEBUG "GET /country/es?page=57 HTTP/1.1" 200 None
+2024-08-01 12:04:59,270 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:59,521 DEBUG "GET /country/es?page=58 HTTP/1.1" 200 None
+2024-08-01 12:04:59,560 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:04:59,782 DEBUG "GET /country/es?page=59 HTTP/1.1" 200 None
+2024-08-01 12:04:59,823 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:05:00,063 DEBUG "GET /country/es?page=60 HTTP/1.1" 200 None
+2024-08-01 12:05:00,096 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:05:00,345 DEBUG "GET /country/es?page=61 HTTP/1.1" 200 None
+2024-08-01 12:05:00,382 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:05:00,656 DEBUG "GET /country/es?page=62 HTTP/1.1" 200 None
+2024-08-01 12:05:00,688 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:05:00,931 DEBUG "GET /country/es?page=63 HTTP/1.1" 200 None
+2024-08-01 12:05:00,964 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:05:01,201 DEBUG "GET /country/es?page=64 HTTP/1.1" 200 None
+2024-08-01 12:05:01,241 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:05:01,531 DEBUG "GET /country/es?page=65 HTTP/1.1" 200 None
+2024-08-01 12:05:01,591 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:05:01,869 DEBUG "GET /country/es?page=66 HTTP/1.1" 200 None
+2024-08-01 12:05:01,904 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:05:02,147 DEBUG "GET /country/es?page=67 HTTP/1.1" 200 None
+2024-08-01 12:05:02,180 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:05:02,443 DEBUG "GET /country/es?page=68 HTTP/1.1" 200 None
+2024-08-01 12:05:02,476 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:05:02,723 DEBUG "GET /country/es?page=69 HTTP/1.1" 200 None
+2024-08-01 12:05:02,768 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:05:03,142 DEBUG "GET /country/es?page=70 HTTP/1.1" 200 None
+2024-08-01 12:05:03,181 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:05:03,399 DEBUG "GET /country/es?page=71 HTTP/1.1" 200 None
+2024-08-01 12:05:03,431 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:05:03,654 DEBUG "GET /country/es?page=72 HTTP/1.1" 200 None
+2024-08-01 12:05:03,687 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:05:03,890 DEBUG "GET /country/es?page=73 HTTP/1.1" 200 None
+2024-08-01 12:05:03,925 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:05:05,742 DEBUG "GET /country/es?page=74 HTTP/1.1" 200 None
+2024-08-01 12:05:27,923 ERROR Traceback (most recent call last):
+2024-08-01 12:05:27,925 ERROR   File "testCardReaderLinux.py", line 810, in <module>
+2024-08-01 12:05:27,931 ERROR card.endingUnlocking()
+2024-08-01 12:05:27,933 ERROR   File "testCardReaderLinux.py", line 781, in endingUnlocking
+2024-08-01 12:05:27,938 ERROR sendCommand(cm.OPEN_COMMAND)
+2024-08-01 12:05:27,941 ERROR   File "testCardReaderLinux.py", line 104, in sendCommand
+2024-08-01 12:05:27,945 ERROR if response[0] == cm.HANDSHAKE_CODE : response = b'' ; response = recursiveByteGet(response)
+2024-08-01 12:05:27,947 ERROR   File "testCardReaderLinux.py", line 65, in recursiveByteGet
+2024-08-01 12:05:27,950 ERROR new_risponse = crt_288.read(cm.READ,64).tobytes()
+2024-08-01 12:05:27,953 ERROR   File "/usr/local/lib/python3.4/dist-packages/usb/core.py", line 988, in read
+2024-08-01 12:05:27,959 ERROR self.__get_timeout(timeout))
+2024-08-01 12:05:27,962 ERROR   File "/usr/local/lib/python3.4/dist-packages/usb/backend/libusb1.py", line 851, in intr_read
+2024-08-01 12:05:27,967 ERROR timeout)
+2024-08-01 12:05:27,968 ERROR   File "/usr/local/lib/python3.4/dist-packages/usb/backend/libusb1.py", line 933, in __read
+2024-08-01 12:05:27,974 ERROR timeout)
+2024-08-01 12:05:27,976 ERROR KeyboardInterrupt
+2024-08-01 12:06:21,243 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:21,383 ERROR /usr/lib/python3/dist-packages/urllib3/connectionpool.py:732: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.org/en/latest/security.html (This warning will only appear once by default.)
+2024-08-01 12:06:21,385 ERROR   InsecureRequestWarning)
+2024-08-01 12:06:21,478 DEBUG "GET /country/es?page=1 HTTP/1.1" 200 None
+2024-08-01 12:06:21,515 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:21,730 DEBUG "GET /country/es?page=2 HTTP/1.1" 200 None
+2024-08-01 12:06:21,768 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:21,983 DEBUG "GET /country/es?page=3 HTTP/1.1" 200 None
+2024-08-01 12:06:22,015 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:22,233 DEBUG "GET /country/es?page=4 HTTP/1.1" 200 None
+2024-08-01 12:06:22,265 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:22,497 DEBUG "GET /country/es?page=5 HTTP/1.1" 200 None
+2024-08-01 12:06:22,529 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:22,759 DEBUG "GET /country/es?page=6 HTTP/1.1" 200 None
+2024-08-01 12:06:22,792 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:23,023 DEBUG "GET /country/es?page=7 HTTP/1.1" 200 None
+2024-08-01 12:06:23,062 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:23,308 DEBUG "GET /country/es?page=8 HTTP/1.1" 200 None
+2024-08-01 12:06:23,349 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:23,622 DEBUG "GET /country/es?page=9 HTTP/1.1" 200 None
+2024-08-01 12:06:23,654 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:23,952 DEBUG "GET /country/es?page=10 HTTP/1.1" 200 None
+2024-08-01 12:06:23,984 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:24,202 DEBUG "GET /country/es?page=11 HTTP/1.1" 200 None
+2024-08-01 12:06:24,233 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:24,434 DEBUG "GET /country/es?page=12 HTTP/1.1" 200 None
+2024-08-01 12:06:24,471 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:24,687 DEBUG "GET /country/es?page=13 HTTP/1.1" 200 None
+2024-08-01 12:06:24,719 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:24,926 DEBUG "GET /country/es?page=14 HTTP/1.1" 200 None
+2024-08-01 12:06:24,958 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:25,255 DEBUG "GET /country/es?page=15 HTTP/1.1" 200 None
+2024-08-01 12:06:25,287 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:25,531 DEBUG "GET /country/es?page=16 HTTP/1.1" 200 None
+2024-08-01 12:06:25,563 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:25,775 DEBUG "GET /country/es?page=17 HTTP/1.1" 200 None
+2024-08-01 12:06:25,806 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:26,036 DEBUG "GET /country/es?page=18 HTTP/1.1" 200 None
+2024-08-01 12:06:26,068 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:26,268 DEBUG "GET /country/es?page=19 HTTP/1.1" 200 None
+2024-08-01 12:06:26,299 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:26,607 DEBUG "GET /country/es?page=20 HTTP/1.1" 200 None
+2024-08-01 12:06:26,639 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:26,887 DEBUG "GET /country/es?page=21 HTTP/1.1" 200 None
+2024-08-01 12:06:26,919 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:27,124 DEBUG "GET /country/es?page=22 HTTP/1.1" 200 None
+2024-08-01 12:06:27,161 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:27,360 DEBUG "GET /country/es?page=23 HTTP/1.1" 200 None
+2024-08-01 12:06:27,392 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:27,699 DEBUG "GET /country/es?page=24 HTTP/1.1" 200 None
+2024-08-01 12:06:27,730 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:27,990 DEBUG "GET /country/es?page=25 HTTP/1.1" 200 None
+2024-08-01 12:06:28,022 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:28,253 DEBUG "GET /country/es?page=26 HTTP/1.1" 200 None
+2024-08-01 12:06:28,285 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:28,486 DEBUG "GET /country/es?page=27 HTTP/1.1" 200 None
+2024-08-01 12:06:28,519 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:28,737 DEBUG "GET /country/es?page=28 HTTP/1.1" 200 None
+2024-08-01 12:06:28,770 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:28,975 DEBUG "GET /country/es?page=29 HTTP/1.1" 200 None
+2024-08-01 12:06:29,007 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:29,237 DEBUG "GET /country/es?page=30 HTTP/1.1" 200 None
+2024-08-01 12:06:29,287 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:29,509 DEBUG "GET /country/es?page=31 HTTP/1.1" 200 None
+2024-08-01 12:06:29,541 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:29,776 DEBUG "GET /country/es?page=32 HTTP/1.1" 200 None
+2024-08-01 12:06:29,821 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:30,044 DEBUG "GET /country/es?page=33 HTTP/1.1" 200 None
+2024-08-01 12:06:30,077 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:30,299 DEBUG "GET /country/es?page=34 HTTP/1.1" 200 None
+2024-08-01 12:06:30,331 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:30,539 DEBUG "GET /country/es?page=35 HTTP/1.1" 200 None
+2024-08-01 12:06:30,571 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:30,771 DEBUG "GET /country/es?page=36 HTTP/1.1" 200 None
+2024-08-01 12:06:30,803 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:31,046 DEBUG "GET /country/es?page=37 HTTP/1.1" 200 None
+2024-08-01 12:06:31,085 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:31,310 DEBUG "GET /country/es?page=38 HTTP/1.1" 200 None
+2024-08-01 12:06:31,342 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:31,564 DEBUG "GET /country/es?page=39 HTTP/1.1" 200 None
+2024-08-01 12:06:31,596 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:31,819 DEBUG "GET /country/es?page=40 HTTP/1.1" 200 None
+2024-08-01 12:06:31,850 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:32,086 DEBUG "GET /country/es?page=41 HTTP/1.1" 200 None
+2024-08-01 12:06:32,118 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:32,371 DEBUG "GET /country/es?page=42 HTTP/1.1" 200 None
+2024-08-01 12:06:32,403 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:32,602 DEBUG "GET /country/es?page=43 HTTP/1.1" 200 None
+2024-08-01 12:06:32,634 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:32,841 DEBUG "GET /country/es?page=44 HTTP/1.1" 200 None
+2024-08-01 12:06:32,877 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:33,100 DEBUG "GET /country/es?page=45 HTTP/1.1" 200 None
+2024-08-01 12:06:33,132 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:33,367 DEBUG "GET /country/es?page=46 HTTP/1.1" 200 None
+2024-08-01 12:06:33,399 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:33,636 DEBUG "GET /country/es?page=47 HTTP/1.1" 200 None
+2024-08-01 12:06:33,668 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:33,885 DEBUG "GET /country/es?page=48 HTTP/1.1" 200 None
+2024-08-01 12:06:33,917 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:34,110 DEBUG "GET /country/es?page=49 HTTP/1.1" 200 None
+2024-08-01 12:06:34,142 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:34,368 DEBUG "GET /country/es?page=50 HTTP/1.1" 200 None
+2024-08-01 12:06:34,400 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:34,632 DEBUG "GET /country/es?page=51 HTTP/1.1" 200 None
+2024-08-01 12:06:34,669 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:34,865 DEBUG "GET /country/es?page=52 HTTP/1.1" 200 None
+2024-08-01 12:06:34,898 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:35,108 DEBUG "GET /country/es?page=53 HTTP/1.1" 200 None
+2024-08-01 12:06:35,149 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:35,406 DEBUG "GET /country/es?page=54 HTTP/1.1" 200 None
+2024-08-01 12:06:35,447 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:35,744 DEBUG "GET /country/es?page=55 HTTP/1.1" 200 None
+2024-08-01 12:06:35,776 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:35,988 DEBUG "GET /country/es?page=56 HTTP/1.1" 200 None
+2024-08-01 12:06:36,020 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:36,244 DEBUG "GET /country/es?page=57 HTTP/1.1" 200 None
+2024-08-01 12:06:36,282 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:36,512 DEBUG "GET /country/es?page=58 HTTP/1.1" 200 None
+2024-08-01 12:06:36,543 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:36,763 DEBUG "GET /country/es?page=59 HTTP/1.1" 200 None
+2024-08-01 12:06:36,794 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:37,003 DEBUG "GET /country/es?page=60 HTTP/1.1" 200 None
+2024-08-01 12:06:37,035 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:37,243 DEBUG "GET /country/es?page=61 HTTP/1.1" 200 None
+2024-08-01 12:06:37,274 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:37,488 DEBUG "GET /country/es?page=62 HTTP/1.1" 200 None
+2024-08-01 12:06:37,521 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:37,827 DEBUG "GET /country/es?page=63 HTTP/1.1" 200 None
+2024-08-01 12:06:37,859 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:38,085 DEBUG "GET /country/es?page=64 HTTP/1.1" 200 None
+2024-08-01 12:06:38,116 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:38,330 DEBUG "GET /country/es?page=65 HTTP/1.1" 200 None
+2024-08-01 12:06:38,362 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:38,573 DEBUG "GET /country/es?page=66 HTTP/1.1" 200 None
+2024-08-01 12:06:38,604 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:38,831 DEBUG "GET /country/es?page=67 HTTP/1.1" 200 None
+2024-08-01 12:06:38,868 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:39,116 DEBUG "GET /country/es?page=68 HTTP/1.1" 200 None
+2024-08-01 12:06:39,148 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:39,441 DEBUG "GET /country/es?page=69 HTTP/1.1" 200 None
+2024-08-01 12:06:39,478 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:39,686 DEBUG "GET /country/es?page=70 HTTP/1.1" 200 None
+2024-08-01 12:06:39,717 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:39,955 DEBUG "GET /country/es?page=71 HTTP/1.1" 200 None
+2024-08-01 12:06:39,988 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:40,187 DEBUG "GET /country/es?page=72 HTTP/1.1" 200 None
+2024-08-01 12:06:40,219 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:40,461 DEBUG "GET /country/es?page=73 HTTP/1.1" 200 None
+2024-08-01 12:06:40,493 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:06:40,748 DEBUG "GET /country/es?page=74 HTTP/1.1" 200 None
+2024-08-01 12:07:27,398 ERROR Traceback (most recent call last):
+2024-08-01 12:07:27,401 ERROR   File "testCardReaderLinux.py", line 803, in <module>
+2024-08-01 12:07:27,406 ERROR if cardIsInside():
+2024-08-01 12:07:27,408 ERROR   File "testCardReaderLinux.py", line 192, in cardIsInside
+2024-08-01 12:07:27,411 ERROR response = sendCommand(cm.ICRW_COMMAND)
+2024-08-01 12:07:27,414 ERROR   File "testCardReaderLinux.py", line 104, in sendCommand
+2024-08-01 12:07:27,417 ERROR if response[0] == cm.HANDSHAKE_CODE : response = b'' ; response = recursiveByteGet(response)
+2024-08-01 12:07:27,419 ERROR   File "testCardReaderLinux.py", line 65, in recursiveByteGet
+2024-08-01 12:07:27,422 ERROR new_risponse = crt_288.read(cm.READ,64).tobytes()
+2024-08-01 12:07:27,424 ERROR   File "/usr/local/lib/python3.4/dist-packages/usb/core.py", line 988, in read
+2024-08-01 12:07:27,430 ERROR self.__get_timeout(timeout))
+2024-08-01 12:07:27,432 ERROR   File "/usr/local/lib/python3.4/dist-packages/usb/backend/libusb1.py", line 851, in intr_read
+2024-08-01 12:07:27,437 ERROR timeout)
+2024-08-01 12:07:27,439 ERROR   File "/usr/local/lib/python3.4/dist-packages/usb/backend/libusb1.py", line 933, in __read
+2024-08-01 12:07:27,444 ERROR timeout)
+2024-08-01 12:07:27,446 ERROR KeyboardInterrupt
+2024-08-01 12:12:07,108 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:07,267 ERROR /usr/lib/python3/dist-packages/urllib3/connectionpool.py:732: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.org/en/latest/security.html (This warning will only appear once by default.)
+2024-08-01 12:12:07,269 ERROR   InsecureRequestWarning)
+2024-08-01 12:12:07,364 DEBUG "GET /country/es?page=1 HTTP/1.1" 200 None
+2024-08-01 12:12:07,401 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:07,645 DEBUG "GET /country/es?page=2 HTTP/1.1" 200 None
+2024-08-01 12:12:07,683 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:07,890 DEBUG "GET /country/es?page=3 HTTP/1.1" 200 None
+2024-08-01 12:12:07,921 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:08,162 DEBUG "GET /country/es?page=4 HTTP/1.1" 200 None
+2024-08-01 12:12:08,195 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:08,439 DEBUG "GET /country/es?page=5 HTTP/1.1" 200 None
+2024-08-01 12:12:08,470 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:08,683 DEBUG "GET /country/es?page=6 HTTP/1.1" 200 None
+2024-08-01 12:12:08,727 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:08,974 DEBUG "GET /country/es?page=7 HTTP/1.1" 200 None
+2024-08-01 12:12:09,024 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:09,281 DEBUG "GET /country/es?page=8 HTTP/1.1" 200 None
+2024-08-01 12:12:09,313 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:09,521 DEBUG "GET /country/es?page=9 HTTP/1.1" 200 None
+2024-08-01 12:12:09,563 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:09,821 DEBUG "GET /country/es?page=10 HTTP/1.1" 200 None
+2024-08-01 12:12:09,864 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:10,133 DEBUG "GET /country/es?page=11 HTTP/1.1" 200 None
+2024-08-01 12:12:10,168 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:10,390 DEBUG "GET /country/es?page=12 HTTP/1.1" 200 None
+2024-08-01 12:12:10,422 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:10,666 DEBUG "GET /country/es?page=13 HTTP/1.1" 200 None
+2024-08-01 12:12:10,700 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:10,959 DEBUG "GET /country/es?page=14 HTTP/1.1" 200 None
+2024-08-01 12:12:10,991 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:11,247 DEBUG "GET /country/es?page=15 HTTP/1.1" 200 None
+2024-08-01 12:12:11,300 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:11,559 DEBUG "GET /country/es?page=16 HTTP/1.1" 200 None
+2024-08-01 12:12:11,598 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:11,803 DEBUG "GET /country/es?page=17 HTTP/1.1" 200 None
+2024-08-01 12:12:11,850 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:12,087 DEBUG "GET /country/es?page=18 HTTP/1.1" 200 None
+2024-08-01 12:12:12,130 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:12,337 DEBUG "GET /country/es?page=19 HTTP/1.1" 200 None
+2024-08-01 12:12:12,369 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:12,606 DEBUG "GET /country/es?page=20 HTTP/1.1" 200 None
+2024-08-01 12:12:12,647 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:13,059 DEBUG "GET /country/es?page=21 HTTP/1.1" 200 None
+2024-08-01 12:12:13,091 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:13,318 DEBUG "GET /country/es?page=22 HTTP/1.1" 200 None
+2024-08-01 12:12:13,350 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:13,581 DEBUG "GET /country/es?page=23 HTTP/1.1" 200 None
+2024-08-01 12:12:13,613 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:13,895 DEBUG "GET /country/es?page=24 HTTP/1.1" 200 None
+2024-08-01 12:12:13,928 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:14,165 DEBUG "GET /country/es?page=25 HTTP/1.1" 200 None
+2024-08-01 12:12:14,197 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:14,412 DEBUG "GET /country/es?page=26 HTTP/1.1" 200 None
+2024-08-01 12:12:14,444 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:14,651 DEBUG "GET /country/es?page=27 HTTP/1.1" 200 None
+2024-08-01 12:12:14,683 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:14,932 DEBUG "GET /country/es?page=28 HTTP/1.1" 200 None
+2024-08-01 12:12:14,966 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:15,166 DEBUG "GET /country/es?page=29 HTTP/1.1" 200 None
+2024-08-01 12:12:15,198 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:15,387 DEBUG "GET /country/es?page=30 HTTP/1.1" 200 None
+2024-08-01 12:12:15,419 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:15,640 DEBUG "GET /country/es?page=31 HTTP/1.1" 200 None
+2024-08-01 12:12:15,672 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:15,913 DEBUG "GET /country/es?page=32 HTTP/1.1" 200 None
+2024-08-01 12:12:15,945 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:16,163 DEBUG "GET /country/es?page=33 HTTP/1.1" 200 None
+2024-08-01 12:12:16,199 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:16,434 DEBUG "GET /country/es?page=34 HTTP/1.1" 200 None
+2024-08-01 12:12:16,465 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:16,696 DEBUG "GET /country/es?page=35 HTTP/1.1" 200 None
+2024-08-01 12:12:16,727 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:16,971 DEBUG "GET /country/es?page=36 HTTP/1.1" 200 None
+2024-08-01 12:12:17,002 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:17,260 DEBUG "GET /country/es?page=37 HTTP/1.1" 200 None
+2024-08-01 12:12:17,306 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:17,533 DEBUG "GET /country/es?page=38 HTTP/1.1" 200 None
+2024-08-01 12:12:17,573 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:17,819 DEBUG "GET /country/es?page=39 HTTP/1.1" 200 None
+2024-08-01 12:12:17,857 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:18,079 DEBUG "GET /country/es?page=40 HTTP/1.1" 200 None
+2024-08-01 12:12:18,111 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:18,321 DEBUG "GET /country/es?page=41 HTTP/1.1" 200 None
+2024-08-01 12:12:18,354 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:18,583 DEBUG "GET /country/es?page=42 HTTP/1.1" 200 None
+2024-08-01 12:12:18,615 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:18,874 DEBUG "GET /country/es?page=43 HTTP/1.1" 200 None
+2024-08-01 12:12:18,906 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:19,189 DEBUG "GET /country/es?page=44 HTTP/1.1" 200 None
+2024-08-01 12:12:19,221 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:19,457 DEBUG "GET /country/es?page=45 HTTP/1.1" 200 None
+2024-08-01 12:12:19,489 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:19,721 DEBUG "GET /country/es?page=46 HTTP/1.1" 200 None
+2024-08-01 12:12:19,753 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:19,958 DEBUG "GET /country/es?page=47 HTTP/1.1" 200 None
+2024-08-01 12:12:19,990 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:20,190 DEBUG "GET /country/es?page=48 HTTP/1.1" 200 None
+2024-08-01 12:12:20,222 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:20,426 DEBUG "GET /country/es?page=49 HTTP/1.1" 200 None
+2024-08-01 12:12:20,457 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:20,678 DEBUG "GET /country/es?page=50 HTTP/1.1" 200 None
+2024-08-01 12:12:20,709 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:20,929 DEBUG "GET /country/es?page=51 HTTP/1.1" 200 None
+2024-08-01 12:12:20,962 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:21,174 DEBUG "GET /country/es?page=52 HTTP/1.1" 200 None
+2024-08-01 12:12:21,206 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:21,412 DEBUG "GET /country/es?page=53 HTTP/1.1" 200 None
+2024-08-01 12:12:21,444 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:21,720 DEBUG "GET /country/es?page=54 HTTP/1.1" 200 None
+2024-08-01 12:12:21,757 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:22,061 DEBUG "GET /country/es?page=55 HTTP/1.1" 200 None
+2024-08-01 12:12:22,095 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:22,322 DEBUG "GET /country/es?page=56 HTTP/1.1" 200 None
+2024-08-01 12:12:22,359 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:22,580 DEBUG "GET /country/es?page=57 HTTP/1.1" 200 None
+2024-08-01 12:12:22,615 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:22,857 DEBUG "GET /country/es?page=58 HTTP/1.1" 200 None
+2024-08-01 12:12:22,890 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:23,118 DEBUG "GET /country/es?page=59 HTTP/1.1" 200 None
+2024-08-01 12:12:23,160 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:23,400 DEBUG "GET /country/es?page=60 HTTP/1.1" 200 None
+2024-08-01 12:12:23,435 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:23,670 DEBUG "GET /country/es?page=61 HTTP/1.1" 200 None
+2024-08-01 12:12:23,702 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:23,938 DEBUG "GET /country/es?page=62 HTTP/1.1" 200 None
+2024-08-01 12:12:23,970 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:24,175 DEBUG "GET /country/es?page=63 HTTP/1.1" 200 None
+2024-08-01 12:12:24,208 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:24,419 DEBUG "GET /country/es?page=64 HTTP/1.1" 200 None
+2024-08-01 12:12:24,456 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:24,701 DEBUG "GET /country/es?page=65 HTTP/1.1" 200 None
+2024-08-01 12:12:24,733 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:24,940 DEBUG "GET /country/es?page=66 HTTP/1.1" 200 None
+2024-08-01 12:12:24,973 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:25,204 DEBUG "GET /country/es?page=67 HTTP/1.1" 200 None
+2024-08-01 12:12:25,237 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:25,457 DEBUG "GET /country/es?page=68 HTTP/1.1" 200 None
+2024-08-01 12:12:25,489 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:25,702 DEBUG "GET /country/es?page=69 HTTP/1.1" 200 None
+2024-08-01 12:12:25,735 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:25,961 DEBUG "GET /country/es?page=70 HTTP/1.1" 200 None
+2024-08-01 12:12:25,994 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:26,212 DEBUG "GET /country/es?page=71 HTTP/1.1" 200 None
+2024-08-01 12:12:26,246 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:26,475 DEBUG "GET /country/es?page=72 HTTP/1.1" 200 None
+2024-08-01 12:12:26,508 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:26,712 DEBUG "GET /country/es?page=73 HTTP/1.1" 200 None
+2024-08-01 12:12:26,745 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:12:26,979 DEBUG "GET /country/es?page=74 HTTP/1.1" 200 None
+2024-08-01 12:12:53,419 ERROR Traceback (most recent call last):
+2024-08-01 12:12:53,422 ERROR   File "testCardReaderLinux.py", line 797, in <module>
+2024-08-01 12:12:53,429 ERROR if cardIsInside():
+2024-08-01 12:12:53,432 ERROR   File "testCardReaderLinux.py", line 192, in cardIsInside
+2024-08-01 12:12:53,437 ERROR response = sendCommand(cm.ICRW_COMMAND)
+2024-08-01 12:12:53,440 ERROR   File "testCardReaderLinux.py", line 104, in sendCommand
+2024-08-01 12:12:53,445 ERROR if response[0] == cm.HANDSHAKE_CODE : response = b'' ; response = recursiveByteGet(response)
+2024-08-01 12:12:53,450 ERROR   File "testCardReaderLinux.py", line 65, in recursiveByteGet
+2024-08-01 12:12:53,456 ERROR new_risponse = crt_288.read(cm.READ,64).tobytes()
+2024-08-01 12:12:53,461 ERROR   File "/usr/local/lib/python3.4/dist-packages/usb/core.py", line 988, in read
+2024-08-01 12:12:53,468 ERROR self.__get_timeout(timeout))
+2024-08-01 12:12:53,470 ERROR   File "/usr/local/lib/python3.4/dist-packages/usb/backend/libusb1.py", line 851, in intr_read
+2024-08-01 12:12:53,476 ERROR timeout)
+2024-08-01 12:12:53,478 ERROR   File "/usr/local/lib/python3.4/dist-packages/usb/backend/libusb1.py", line 933, in __read
+2024-08-01 12:12:53,484 ERROR timeout)
+2024-08-01 12:12:53,486 ERROR KeyboardInterrupt
+2024-08-01 12:17:46,105 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:46,234 ERROR /usr/lib/python3/dist-packages/urllib3/connectionpool.py:732: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.org/en/latest/security.html (This warning will only appear once by default.)
+2024-08-01 12:17:46,236 ERROR   InsecureRequestWarning)
+2024-08-01 12:17:46,320 DEBUG "GET /country/es?page=1 HTTP/1.1" 200 None
+2024-08-01 12:17:46,362 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:46,607 DEBUG "GET /country/es?page=2 HTTP/1.1" 200 None
+2024-08-01 12:17:46,640 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:46,864 DEBUG "GET /country/es?page=3 HTTP/1.1" 200 None
+2024-08-01 12:17:46,897 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:47,124 DEBUG "GET /country/es?page=4 HTTP/1.1" 200 None
+2024-08-01 12:17:47,172 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:47,467 DEBUG "GET /country/es?page=5 HTTP/1.1" 200 None
+2024-08-01 12:17:47,510 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:47,736 DEBUG "GET /country/es?page=6 HTTP/1.1" 200 None
+2024-08-01 12:17:47,777 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:47,992 DEBUG "GET /country/es?page=7 HTTP/1.1" 200 None
+2024-08-01 12:17:48,026 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:48,236 DEBUG "GET /country/es?page=8 HTTP/1.1" 200 None
+2024-08-01 12:17:48,268 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:48,495 DEBUG "GET /country/es?page=9 HTTP/1.1" 200 None
+2024-08-01 12:17:48,528 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:48,729 DEBUG "GET /country/es?page=10 HTTP/1.1" 200 None
+2024-08-01 12:17:48,768 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:48,988 DEBUG "GET /country/es?page=11 HTTP/1.1" 200 None
+2024-08-01 12:17:49,022 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:49,314 DEBUG "GET /country/es?page=12 HTTP/1.1" 200 None
+2024-08-01 12:17:49,346 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:49,559 DEBUG "GET /country/es?page=13 HTTP/1.1" 200 None
+2024-08-01 12:17:49,592 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:49,830 DEBUG "GET /country/es?page=14 HTTP/1.1" 200 None
+2024-08-01 12:17:49,864 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:50,102 DEBUG "GET /country/es?page=15 HTTP/1.1" 200 None
+2024-08-01 12:17:50,142 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:50,379 DEBUG "GET /country/es?page=16 HTTP/1.1" 200 None
+2024-08-01 12:17:50,412 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:50,654 DEBUG "GET /country/es?page=17 HTTP/1.1" 200 None
+2024-08-01 12:17:50,685 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:50,905 DEBUG "GET /country/es?page=18 HTTP/1.1" 200 None
+2024-08-01 12:17:50,937 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:51,134 DEBUG "GET /country/es?page=19 HTTP/1.1" 200 None
+2024-08-01 12:17:51,176 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:51,458 DEBUG "GET /country/es?page=20 HTTP/1.1" 200 None
+2024-08-01 12:17:51,492 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:51,700 DEBUG "GET /country/es?page=21 HTTP/1.1" 200 None
+2024-08-01 12:17:51,732 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:51,954 DEBUG "GET /country/es?page=22 HTTP/1.1" 200 None
+2024-08-01 12:17:51,988 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:52,298 DEBUG "GET /country/es?page=23 HTTP/1.1" 200 None
+2024-08-01 12:17:52,330 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:52,523 DEBUG "GET /country/es?page=24 HTTP/1.1" 200 None
+2024-08-01 12:17:52,555 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:52,785 DEBUG "GET /country/es?page=25 HTTP/1.1" 200 None
+2024-08-01 12:17:52,816 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:53,009 DEBUG "GET /country/es?page=26 HTTP/1.1" 200 None
+2024-08-01 12:17:53,045 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:53,280 DEBUG "GET /country/es?page=27 HTTP/1.1" 200 None
+2024-08-01 12:17:53,324 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:53,534 DEBUG "GET /country/es?page=28 HTTP/1.1" 200 None
+2024-08-01 12:17:53,574 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:53,767 DEBUG "GET /country/es?page=29 HTTP/1.1" 200 None
+2024-08-01 12:17:53,799 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:54,014 DEBUG "GET /country/es?page=30 HTTP/1.1" 200 None
+2024-08-01 12:17:54,046 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:54,288 DEBUG "GET /country/es?page=31 HTTP/1.1" 200 None
+2024-08-01 12:17:54,319 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:54,562 DEBUG "GET /country/es?page=32 HTTP/1.1" 200 None
+2024-08-01 12:17:54,594 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:54,831 DEBUG "GET /country/es?page=33 HTTP/1.1" 200 None
+2024-08-01 12:17:54,863 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:55,085 DEBUG "GET /country/es?page=34 HTTP/1.1" 200 None
+2024-08-01 12:17:55,117 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:55,335 DEBUG "GET /country/es?page=35 HTTP/1.1" 200 None
+2024-08-01 12:17:55,372 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:55,566 DEBUG "GET /country/es?page=36 HTTP/1.1" 200 None
+2024-08-01 12:17:55,598 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:55,816 DEBUG "GET /country/es?page=37 HTTP/1.1" 200 None
+2024-08-01 12:17:55,847 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:56,097 DEBUG "GET /country/es?page=38 HTTP/1.1" 200 None
+2024-08-01 12:17:56,131 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:56,378 DEBUG "GET /country/es?page=39 HTTP/1.1" 200 None
+2024-08-01 12:17:56,410 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:56,630 DEBUG "GET /country/es?page=40 HTTP/1.1" 200 None
+2024-08-01 12:17:56,662 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:56,866 DEBUG "GET /country/es?page=41 HTTP/1.1" 200 None
+2024-08-01 12:17:56,899 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:57,098 DEBUG "GET /country/es?page=42 HTTP/1.1" 200 None
+2024-08-01 12:17:57,131 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:57,360 DEBUG "GET /country/es?page=43 HTTP/1.1" 200 None
+2024-08-01 12:17:57,392 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:57,614 DEBUG "GET /country/es?page=44 HTTP/1.1" 200 None
+2024-08-01 12:17:57,646 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:57,889 DEBUG "GET /country/es?page=45 HTTP/1.1" 200 None
+2024-08-01 12:17:57,921 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:58,162 DEBUG "GET /country/es?page=46 HTTP/1.1" 200 None
+2024-08-01 12:17:58,195 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:58,427 DEBUG "GET /country/es?page=47 HTTP/1.1" 200 None
+2024-08-01 12:17:58,459 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:58,673 DEBUG "GET /country/es?page=48 HTTP/1.1" 200 None
+2024-08-01 12:17:58,706 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:58,922 DEBUG "GET /country/es?page=49 HTTP/1.1" 200 None
+2024-08-01 12:17:58,960 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:59,167 DEBUG "GET /country/es?page=50 HTTP/1.1" 200 None
+2024-08-01 12:17:59,213 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:59,459 DEBUG "GET /country/es?page=51 HTTP/1.1" 200 None
+2024-08-01 12:17:59,510 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:59,712 DEBUG "GET /country/es?page=52 HTTP/1.1" 200 None
+2024-08-01 12:17:59,744 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:17:59,956 DEBUG "GET /country/es?page=53 HTTP/1.1" 200 None
+2024-08-01 12:17:59,990 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:18:00,194 DEBUG "GET /country/es?page=54 HTTP/1.1" 200 None
+2024-08-01 12:18:00,226 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:18:00,514 DEBUG "GET /country/es?page=55 HTTP/1.1" 200 None
+2024-08-01 12:18:00,547 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:18:00,775 DEBUG "GET /country/es?page=56 HTTP/1.1" 200 None
+2024-08-01 12:18:00,808 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:18:01,036 DEBUG "GET /country/es?page=57 HTTP/1.1" 200 None
+2024-08-01 12:18:01,078 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:18:01,329 DEBUG "GET /country/es?page=58 HTTP/1.1" 200 None
+2024-08-01 12:18:01,366 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:18:01,572 DEBUG "GET /country/es?page=59 HTTP/1.1" 200 None
+2024-08-01 12:18:01,608 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:18:01,902 DEBUG "GET /country/es?page=60 HTTP/1.1" 200 None
+2024-08-01 12:18:01,936 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:18:02,152 DEBUG "GET /country/es?page=61 HTTP/1.1" 200 None
+2024-08-01 12:18:02,186 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:18:02,474 DEBUG "GET /country/es?page=62 HTTP/1.1" 200 None
+2024-08-01 12:18:02,507 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:18:02,734 DEBUG "GET /country/es?page=63 HTTP/1.1" 200 None
+2024-08-01 12:18:02,768 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:18:03,017 DEBUG "GET /country/es?page=64 HTTP/1.1" 200 None
+2024-08-01 12:18:03,050 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:18:03,256 DEBUG "GET /country/es?page=65 HTTP/1.1" 200 None
+2024-08-01 12:18:03,290 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:18:03,522 DEBUG "GET /country/es?page=66 HTTP/1.1" 200 None
+2024-08-01 12:18:03,555 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:18:03,780 DEBUG "GET /country/es?page=67 HTTP/1.1" 200 None
+2024-08-01 12:18:03,814 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:18:04,022 DEBUG "GET /country/es?page=68 HTTP/1.1" 200 None
+2024-08-01 12:18:04,061 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:18:04,298 DEBUG "GET /country/es?page=69 HTTP/1.1" 200 None
+2024-08-01 12:18:04,331 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:18:04,529 DEBUG "GET /country/es?page=70 HTTP/1.1" 200 None
+2024-08-01 12:18:04,562 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:18:04,784 DEBUG "GET /country/es?page=71 HTTP/1.1" 200 None
+2024-08-01 12:18:04,817 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:18:05,051 DEBUG "GET /country/es?page=72 HTTP/1.1" 200 None
+2024-08-01 12:18:05,094 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:18:05,352 DEBUG "GET /country/es?page=73 HTTP/1.1" 200 None
+2024-08-01 12:18:05,397 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:18:05,639 DEBUG "GET /country/es?page=74 HTTP/1.1" 200 None
+2024-08-01 12:18:42,813 ERROR Traceback (most recent call last):
+2024-08-01 12:18:42,816 ERROR   File "testCardReaderLinux.py", line 813, in <module>
+2024-08-01 12:18:42,821 ERROR time.sleep(2)
+2024-08-01 12:18:42,823 ERROR KeyboardInterrupt
+2024-08-01 12:35:04,536 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:04,693 ERROR /usr/lib/python3/dist-packages/urllib3/connectionpool.py:732: InsecureRequestWarning: Unverified HTTPS request is being made. Adding certificate verification is strongly advised. See: https://urllib3.readthedocs.org/en/latest/security.html (This warning will only appear once by default.)
+2024-08-01 12:35:04,696 ERROR   InsecureRequestWarning)
+2024-08-01 12:35:04,781 DEBUG "GET /country/es?page=1 HTTP/1.1" 200 None
+2024-08-01 12:35:04,819 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:05,132 DEBUG "GET /country/es?page=2 HTTP/1.1" 200 None
+2024-08-01 12:35:05,176 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:05,428 DEBUG "GET /country/es?page=3 HTTP/1.1" 200 None
+2024-08-01 12:35:05,513 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:05,774 DEBUG "GET /country/es?page=4 HTTP/1.1" 200 None
+2024-08-01 12:35:05,813 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:06,076 DEBUG "GET /country/es?page=5 HTTP/1.1" 200 None
+2024-08-01 12:35:06,134 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:06,406 DEBUG "GET /country/es?page=6 HTTP/1.1" 200 None
+2024-08-01 12:35:06,439 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:06,681 DEBUG "GET /country/es?page=7 HTTP/1.1" 200 None
+2024-08-01 12:35:06,716 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:06,936 DEBUG "GET /country/es?page=8 HTTP/1.1" 200 None
+2024-08-01 12:35:06,968 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:07,223 DEBUG "GET /country/es?page=9 HTTP/1.1" 200 None
+2024-08-01 12:35:07,256 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:07,520 DEBUG "GET /country/es?page=10 HTTP/1.1" 200 None
+2024-08-01 12:35:07,553 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:07,790 DEBUG "GET /country/es?page=11 HTTP/1.1" 200 None
+2024-08-01 12:35:07,824 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:08,049 DEBUG "GET /country/es?page=12 HTTP/1.1" 200 None
+2024-08-01 12:35:08,084 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:08,340 DEBUG "GET /country/es?page=13 HTTP/1.1" 200 None
+2024-08-01 12:35:08,374 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:08,620 DEBUG "GET /country/es?page=14 HTTP/1.1" 200 None
+2024-08-01 12:35:08,654 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:08,893 DEBUG "GET /country/es?page=15 HTTP/1.1" 200 None
+2024-08-01 12:35:08,927 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:09,179 DEBUG "GET /country/es?page=16 HTTP/1.1" 200 None
+2024-08-01 12:35:09,223 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:09,424 DEBUG "GET /country/es?page=17 HTTP/1.1" 200 None
+2024-08-01 12:35:09,463 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:09,667 DEBUG "GET /country/es?page=18 HTTP/1.1" 200 None
+2024-08-01 12:35:09,701 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:09,913 DEBUG "GET /country/es?page=19 HTTP/1.1" 200 None
+2024-08-01 12:35:09,946 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:10,186 DEBUG "GET /country/es?page=20 HTTP/1.1" 200 None
+2024-08-01 12:35:10,218 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:10,452 DEBUG "GET /country/es?page=21 HTTP/1.1" 200 None
+2024-08-01 12:35:10,485 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:10,681 DEBUG "GET /country/es?page=22 HTTP/1.1" 200 None
+2024-08-01 12:35:10,715 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:10,962 DEBUG "GET /country/es?page=23 HTTP/1.1" 200 None
+2024-08-01 12:35:11,004 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:11,235 DEBUG "GET /country/es?page=24 HTTP/1.1" 200 None
+2024-08-01 12:35:11,279 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:11,521 DEBUG "GET /country/es?page=25 HTTP/1.1" 200 None
+2024-08-01 12:35:11,558 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:11,782 DEBUG "GET /country/es?page=26 HTTP/1.1" 200 None
+2024-08-01 12:35:11,815 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:12,049 DEBUG "GET /country/es?page=27 HTTP/1.1" 200 None
+2024-08-01 12:35:12,081 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:12,293 DEBUG "GET /country/es?page=28 HTTP/1.1" 200 None
+2024-08-01 12:35:12,329 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:12,576 DEBUG "GET /country/es?page=29 HTTP/1.1" 200 None
+2024-08-01 12:35:12,609 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:12,901 DEBUG "GET /country/es?page=30 HTTP/1.1" 200 None
+2024-08-01 12:35:12,934 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:13,160 DEBUG "GET /country/es?page=31 HTTP/1.1" 200 None
+2024-08-01 12:35:13,194 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:13,434 DEBUG "GET /country/es?page=32 HTTP/1.1" 200 None
+2024-08-01 12:35:13,466 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:13,679 DEBUG "GET /country/es?page=33 HTTP/1.1" 200 None
+2024-08-01 12:35:13,712 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:13,930 DEBUG "GET /country/es?page=34 HTTP/1.1" 200 None
+2024-08-01 12:35:13,968 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:14,187 DEBUG "GET /country/es?page=35 HTTP/1.1" 200 None
+2024-08-01 12:35:14,220 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:14,452 DEBUG "GET /country/es?page=36 HTTP/1.1" 200 None
+2024-08-01 12:35:14,485 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:14,719 DEBUG "GET /country/es?page=37 HTTP/1.1" 200 None
+2024-08-01 12:35:14,752 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:14,993 DEBUG "GET /country/es?page=38 HTTP/1.1" 200 None
+2024-08-01 12:35:15,025 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:15,302 DEBUG "GET /country/es?page=39 HTTP/1.1" 200 None
+2024-08-01 12:35:15,342 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:15,566 DEBUG "GET /country/es?page=40 HTTP/1.1" 200 None
+2024-08-01 12:35:15,601 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:15,846 DEBUG "GET /country/es?page=41 HTTP/1.1" 200 None
+2024-08-01 12:35:15,879 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:16,117 DEBUG "GET /country/es?page=42 HTTP/1.1" 200 None
+2024-08-01 12:35:16,154 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:16,394 DEBUG "GET /country/es?page=43 HTTP/1.1" 200 None
+2024-08-01 12:35:16,426 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:16,657 DEBUG "GET /country/es?page=44 HTTP/1.1" 200 None
+2024-08-01 12:35:16,691 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:16,913 DEBUG "GET /country/es?page=45 HTTP/1.1" 200 None
+2024-08-01 12:35:16,946 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:17,193 DEBUG "GET /country/es?page=46 HTTP/1.1" 200 None
+2024-08-01 12:35:17,235 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:17,468 DEBUG "GET /country/es?page=47 HTTP/1.1" 200 None
+2024-08-01 12:35:17,502 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:17,725 DEBUG "GET /country/es?page=48 HTTP/1.1" 200 None
+2024-08-01 12:35:17,758 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:17,980 DEBUG "GET /country/es?page=49 HTTP/1.1" 200 None
+2024-08-01 12:35:18,013 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:18,275 DEBUG "GET /country/es?page=50 HTTP/1.1" 200 None
+2024-08-01 12:35:18,318 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:18,522 DEBUG "GET /country/es?page=51 HTTP/1.1" 200 None
+2024-08-01 12:35:18,555 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:18,793 DEBUG "GET /country/es?page=52 HTTP/1.1" 200 None
+2024-08-01 12:35:18,826 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:19,067 DEBUG "GET /country/es?page=53 HTTP/1.1" 200 None
+2024-08-01 12:35:19,100 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:19,361 DEBUG "GET /country/es?page=54 HTTP/1.1" 200 None
+2024-08-01 12:35:19,394 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:19,711 DEBUG "GET /country/es?page=55 HTTP/1.1" 200 None
+2024-08-01 12:35:19,744 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:19,968 DEBUG "GET /country/es?page=56 HTTP/1.1" 200 None
+2024-08-01 12:35:20,001 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:20,220 DEBUG "GET /country/es?page=57 HTTP/1.1" 200 None
+2024-08-01 12:35:20,261 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:20,491 DEBUG "GET /country/es?page=58 HTTP/1.1" 200 None
+2024-08-01 12:35:20,524 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:20,758 DEBUG "GET /country/es?page=59 HTTP/1.1" 200 None
+2024-08-01 12:35:20,789 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:21,026 DEBUG "GET /country/es?page=60 HTTP/1.1" 200 None
+2024-08-01 12:35:21,058 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:21,298 DEBUG "GET /country/es?page=61 HTTP/1.1" 200 None
+2024-08-01 12:35:21,331 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:21,538 DEBUG "GET /country/es?page=62 HTTP/1.1" 200 None
+2024-08-01 12:35:21,570 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:21,781 DEBUG "GET /country/es?page=63 HTTP/1.1" 200 None
+2024-08-01 12:35:21,814 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:22,041 DEBUG "GET /country/es?page=64 HTTP/1.1" 200 None
+2024-08-01 12:35:22,078 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:22,307 DEBUG "GET /country/es?page=65 HTTP/1.1" 200 None
+2024-08-01 12:35:22,339 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:22,562 DEBUG "GET /country/es?page=66 HTTP/1.1" 200 None
+2024-08-01 12:35:22,594 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:22,799 DEBUG "GET /country/es?page=67 HTTP/1.1" 200 None
+2024-08-01 12:35:22,832 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:23,019 DEBUG "GET /country/es?page=68 HTTP/1.1" 200 None
+2024-08-01 12:35:23,055 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:23,368 DEBUG "GET /country/es?page=69 HTTP/1.1" 200 None
+2024-08-01 12:35:23,412 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:23,665 DEBUG "GET /country/es?page=70 HTTP/1.1" 200 None
+2024-08-01 12:35:23,700 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:23,914 DEBUG "GET /country/es?page=71 HTTP/1.1" 200 None
+2024-08-01 12:35:23,946 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:24,177 DEBUG "GET /country/es?page=72 HTTP/1.1" 200 None
+2024-08-01 12:35:24,212 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:24,432 DEBUG "GET /country/es?page=73 HTTP/1.1" 200 None
+2024-08-01 12:35:24,469 INFO Starting new HTTPS connection (1): bintable.com
+2024-08-01 12:35:24,690 DEBUG "GET /country/es?page=74 HTTP/1.1" 200 None
+2024-08-01 12:40:33,093 ERROR Traceback (most recent call last):
+2024-08-01 12:40:33,096 ERROR   File "testCardReaderLinux.py", line 813, in <module>
+2024-08-01 12:40:33,101 ERROR time.sleep(2)
+2024-08-01 12:40:33,103 ERROR KeyboardInterrupt
